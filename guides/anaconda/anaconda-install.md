@@ -15,8 +15,7 @@
 ### 3. Guía de instalación
 
 1. Descargue el instalador de [Anaconda](https://www.anaconda.com/download).
-- Tenga en cuenta que no es necesario proporcionar su correo electrónico ni suscribirse al servicio de Anaconda Cloud.
-- Seleccione la opción [skip registration](https://www.anaconda.com/download/success).
+- Tenga en cuenta que no es necesario proporcionar su correo electrónico ni suscribirse al servicio de Anaconda Cloud.  Seleccione la opción [skip registration](https://www.anaconda.com/download/success).
 2. Ejecute el instalador y preste atención a las siguientes opciones (formularios):
    - **Installation type:** seleccione la opción ''All users''. Esto permite instalar el entorno en la raíz del disco, fuera de la carpeta mis documentos (requiere la clave de administrador).
    - **Choose install location:** Cuando se pregunte por la ruta de instalación escriba: C:\apps\anaconda3
