@@ -24,5 +24,3 @@ Si deseas contribuir a estas guías, puedes:
 - Enviar correcciones o mejoras mediante pull requests.
 
 ---
-
-Con esta estructura, los usuarios tendrán una idea clara de lo que encontrarán en la carpeta `guides`. ¿Te gustaría ajustar algo o incluir información adicional?
