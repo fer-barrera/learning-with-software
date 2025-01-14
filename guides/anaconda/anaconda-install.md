@@ -14,8 +14,8 @@
 
 ### 3. Guia de instalación
 
-1. Descargue el instalador del siguiente enlace: https://www.anaconda.com/download (912.3M).
-   - Note que no es necesario suministrar su dirección de correo electronico, o realizar la suscripción al servicio anaconda cloud para descargar el entorno.
+1. Descargue el instalador del entorno [Anaconda](https://www.anaconda.com/download) (912.3M).
+   - Note que no es necesario suministrar su correo electronico, o realizar la suscripción al servicio anaconda cloud.
    - Seleccione la opcion [skip registration](https://www.anaconda.com/download/success).
 2. Ejecute el instalador de anaconda teniendo precaución con las siguientes opciones (formularios):
    - Cuando se pregunte por tipo de instalación (installation type), seleccione la opción ''all users'', esta permite instalar anaconda en la raiz del disco, lo cual facilita enormemente su gestión (puede requerir la clave de administrador).
