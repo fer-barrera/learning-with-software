@@ -3,4 +3,4 @@ This repository provides detailed installation guides for essential software and
 
 # Guías de Instalación de Software
 
-- [Guía de Software 1](guides/software1.md)
+- [Guía de Software 1](guides/conda/conda-install.md)
