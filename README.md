@@ -7,11 +7,11 @@ This repository provides detailed installation guides for essential software and
 
 | CURSO                     | Anaconda           | Jupiter   | Nombre del entorno virtual[^1]  |
 | :------------------------ | :----------------: | :-------: | :------------------------------ |
-| Visión por computadora    | :heavy_check_mark: | :heavy_check_mark:      | cv                             |
-| Señales y sistemas        | :heavy_check_mark: | :heavy_check_mark: | signalsys                      |
-| Calculo diferencial       | :heavy_check_mark: | ✓ | math                           |
-| SEA                       | :heavy_check_mark: | ✓ | ia                             |
-| Servicios web             | :heavy_check_mark: |  | websrv                         |
+| Visión por computadora    | ✓ | :heavy_check_mark:      | cv                             |
+| Señales y sistemas        | ✓ | :heavy_check_mark: | signalsys                      |
+| Calculo diferencial       | ✓ | ✓ | math                           |
+| SEA                       | ✓ | ✓ | ia                             |
+| Servicios web             | ✓ |  | websrv                         |
 
 [^1]: Nombre sugerido para el entorno virtual (no es obligatorio).
 
