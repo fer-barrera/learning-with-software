@@ -11,7 +11,7 @@ This repository provides detailed installation guides for essential software and
 | Señales y sistemas        |   - [x]       |    x      | signalsys                      |
 | Calculo diferencial       |    :heavy_check_mark:       |    x      | math                           |
 | SEA                       |    x       |    x      | ia                             |
-| Servicios web             |    x       |           | websrv                         |
+| Servicios web             |    x       |     :x:      | websrv                         |
 
 [^1]: Nombre sugerido para el entorno virtual (no es obligatorio).
 
