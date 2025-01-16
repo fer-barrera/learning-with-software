@@ -13,4 +13,5 @@ This repository provides detailed installation guides for essential software and
 | Señales y sistemas       |    x     |    x    | signalsys             |
 | Calculo diferencial      |    x     |    x    | math                  |
 | SEA                      |    x     |    x    | ia                    |
+
 [1]: Nombre sugerido.
