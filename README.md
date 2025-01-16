@@ -9,7 +9,7 @@ This repository provides detailed installation guides for essential software and
 | :------------------------ | :--------: | :-------: | :------------------------------ |
 | Visión por computadora    |   - [x]       |    x      | cv                             |
 | Señales y sistemas        |   - [x]       |    x      | signalsys                      |
-| Calculo diferencial       |    x       |    x      | math                           |
+| Calculo diferencial       |    :heavy_check_mark:       |    x      | math                           |
 | SEA                       |    x       |    x      | ia                             |
 | Servicios web             |    x       |           | websrv                         |
 
