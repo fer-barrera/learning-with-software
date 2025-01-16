@@ -13,7 +13,7 @@ This repository provides detailed installation guides for essential software and
 | SEA                      |    x     |    x    | ia                             |
 | Servicios web            !    x     !         ! websrv                         |
 
-[^1]: Nombre sugerido.
+[^1]: Nombre sugerido para el entorno virtual (no es obligatorio).
 
 ## Guías de instalación de software
 
