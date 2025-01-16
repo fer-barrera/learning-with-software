@@ -7,9 +7,9 @@ This repository provides detailed installation guides for essential software and
 
 ## Curso
 
-| CURSO                | Anaconda | Jupiter | Nombre del entorno |
-| -------------------- | -------- | ------- | ------------------ |
-| Visión computadora   |    x     |    x    | cv                 |
-| Señales y sistemas   |    x     |    x    | ss                 |
-| Señales y sistemas   |    x     |    x    | ss                 |
-|    |    x     |    x    | ss                 |
+| CURSO                    | Anaconda | Jupiter | Nombre del entorno |
+| ------------------------ | -------- | ------- | ------------------ |
+| Visión por computadora   |    x     |    x    | cv                 |
+| Señales y sistemas       |    x     |    x    | ss                 |
+| Calculo diferencial      |    x     |    x    | signalsys          |
+| SEA                      |    x     |    x    | ss                 |
