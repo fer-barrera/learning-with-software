@@ -4,7 +4,7 @@ Sigue estos pasos para instalar Jupyter Notebook y configurar tu entorno virtual
 
 **Activación del entorno**
 
-- Ejecuta `Anaconda Powershell Prompt` (menu de inicio de windows).
+- Ejecuta `Anaconda Powershell Prompt` (menu inicio windows &rarr;  Anaconda3 (64-bit) &rarr;).
 
 - Una vez has creado el entorno virtual, activa el nuevo entorno:
 
