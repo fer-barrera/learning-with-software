@@ -9,7 +9,7 @@ Existen diversas herramientas para crear entornos virtuales para Python, como po
 - Selecciona un nombre para su entorno virtual. Asegúrese de evitar espacios en blanco, caracteres especiales, acentos u otros símbolos. 
 - Se recomienda utilizar un nombre simple y descriptivo. Por ejemplo, para el **SEA** (Semillero en Electrónica Aplicada), puede usar:  `ai`.
 
-**Verifica si 'conda' esta instalado correctamente**
+**Verifica si `conda` esta instalado correctamente**
 - Ejecuta `Anaconda Powershell Prompt` (menu de inicio de windows).
 - Verificar entornos existentes (Opcional)  
    Lista todos los entornos disponibles para evitar nombres duplicados:  
