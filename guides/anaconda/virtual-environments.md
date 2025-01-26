@@ -54,4 +54,4 @@ Existen diversas herramientas para crear entornos virtuales en Python, como por 
   (ia) PS C:\Users\jferb>
   ```
   
-- Recuerda **activar** el entorno simpre que instales una nueva libreria.
+- Recuerda **activar** el entorno simpre que instale una nueva libreria.
