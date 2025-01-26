@@ -18,7 +18,7 @@ La siguiente tabla presenta el listado de aplicaciones y librerías necesarias p
 | Visión por computadora    | ✓           | cv                     | ✓         |
 | Señales y sistemas        | ✓           | signalsys              | ✓         |
 | Calculo diferencial       | ✓           | math                   | ✓         |
-| SEA                       | ✓           | ia                     | ✓         |
+| SEA                       | ✓           | ai                     | ✓         |
 | Servicios web             | ✓           | websrv                 |           |
 
 [^1]: Nombre sugerido para el entorno virtual (no es obligatorio).
