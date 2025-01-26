@@ -28,3 +28,4 @@ La siguiente tabla presenta el listado de aplicaciones y librerías necesarias p
 ## Guías de instalación de software
 
 - [Anaconda](guides/anaconda/anaconda-install.md)
+- [Entorno virtual](guides/anaconda/virtual-environments.md)
