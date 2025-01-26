@@ -1,6 +1,6 @@
 # Creación de un entorno virtual con Conda
 
-Existen diversas herramientas para crear entornos virtuales para Python, como por ejemplo: `virtualenv`, `venv` y `conda`. De estas opciones, **la ultima es la más sencilla y práctica**. A continuación, se presentarán los pasos para crear un entorno virtual utilizando la interfaz de `conda`:
+Existen diversas herramientas para crear entornos virtuales para Python, como por ejemplo: `virtualenv`, `venv` y `conda`. De estas opciones, la ultima es la más sencilla y práctica. A continuación, se presentarán los pasos para crear un entorno virtual utilizando la interfaz de `conda`:
 
 ---
 ## Pasos para Crear un Entorno Virtual
