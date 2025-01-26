@@ -44,3 +44,12 @@ Existen diversas herramientas para crear entornos virtuales para Python, como po
     ```console
    conda activate ia
    ```
+    
+- Si el comando se ejecuto correctamente, deberías observar algo similar a:
+
+  ```console
+  (base) PS C:\Users\jferb> conda activate ia
+  (ia) PS C:\Users\jferb>
+  ```
+  
+- Recuerda **activar** el entorno simpre que instales una nueva libreria.
