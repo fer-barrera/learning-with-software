@@ -37,3 +37,10 @@ Sigue estos pasos para instalar Jupyter Notebook y configurar tu entorno virtual
     Installed kernelspec ai-kernel in C:\Users\jferb\AppData\Roaming\jupyter\kernels\ai-kernel
     (ai) PS C:\Users\jferb>
     ```
+
+**Inicia Jupyter Notebook**
+
+    ```console
+   jupyter notebook
+    ```
+
