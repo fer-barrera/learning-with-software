@@ -40,7 +40,7 @@ Sigue estos pasos para instalar Jupyter Notebook y configurar tu entorno virtual
 
 **Inicia Jupyter Notebook**
 
-    ```console
+   ```console
    jupyter notebook
-    ```
+   ```
 
