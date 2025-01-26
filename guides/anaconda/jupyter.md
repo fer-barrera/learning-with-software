@@ -10,7 +10,7 @@ Sigue estos pasos para instalar Jupyter Notebook y configurar tu entorno virtual
    conda activate nombre_entorno
    ```
 
-- En este remplace `nombre_entorno` por el nombre del entorno virtual que desea utilizar. por ejemplo `ai` para SEA (Semillero en Electrónica Aplicada).
+- Sustituye `nombre_entorno` con el nombre del entorno virtual que desea utilizar. por ejemplo `ai` para SEA (Semillero en Electrónica Aplicada).
   
 **Instala el paquete ipykernel**
 
