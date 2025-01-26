@@ -26,6 +26,13 @@
    - Ejecute Anaconda Powershell Prompt y luego escriba:
      
    ```console
-   # versión de python
    python --version
    ```
+   Esto debera imprimir la versión del interprete python. Por ejemplo:
+
+   ```console
+   (base) PS C:\Users\jferb> python --version
+   Python 3.11.5
+   ```
+   
+   
