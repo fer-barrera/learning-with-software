@@ -13,13 +13,13 @@ La siguiente tabla presenta el listado de aplicaciones y librerías necesarias p
 
 ### Tabla de configuración
 
-| Cursos                    | 1. Anaconda | Entorno virtual[^1] | 2. Jupiter |
-| :------------------------ | :---------: | :---                | :---:      |
-| Visión por computadora    | ✓           | cv                  | ✓         |
-| Señales y sistemas        | ✓           | signalsys           | ✓         |
-| Calculo diferencial       | ✓           | math                | ✓         |
-| SEA                       | ✓           | ia                  | ✓         |
-| Servicios web             | ✓           | websrv              |           |
+| Cursos                    | 1. Anaconda | 2. Entorno virtual[^1] | 3. Jupiter |
+| :------------------------ | :---------: | :---                   | :---:      |
+| Visión por computadora    | ✓           | cv                     | ✓         |
+| Señales y sistemas        | ✓           | signalsys              | ✓         |
+| Calculo diferencial       | ✓           | math                   | ✓         |
+| SEA                       | ✓           | ia                     | ✓         |
+| Servicios web             | ✓           | websrv                 |           |
 
 [^1]: Nombre sugerido para el entorno virtual (no es obligatorio).
 
@@ -28,15 +28,3 @@ La siguiente tabla presenta el listado de aplicaciones y librerías necesarias p
 ## Guías de instalación de software
 
 - [Anaconda](guides/anaconda/anaconda-install.md)
-
-
-Run the JDK tools from this Snap package in a stricty-confined environment:
-
-```console
-$ openjdk.javac --version
-javac 22
-$ openjdk.java --version
-openjdk 22 2024-03-19
-OpenJDK Runtime Environment (build 22+36-snap)
-OpenJDK 64-Bit Server VM (build 22+36-snap, mixed mode, sharing)
-```
