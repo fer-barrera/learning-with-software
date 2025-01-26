@@ -4,13 +4,9 @@ Existen diversas herramientas para crear entornos virtuales para Python, como po
 
 ## Pasos para Crear un Entorno Virtual
 
-**Nombre del entorno virtual**
-Seleccione un nombre para su entorno virtual, evite espacios en blanco, caracteres especiales, acentos y etc. Se suguiere utilizar el nombre por ejemplo: `ai` para el SEA (Semillero en Electrónica Aplicada).
+**Nombre del Entorno Virtual**
 
-3. **Abrir la Terminal o el Anaconda Prompt**  
-   Asegúrate de tener instalado Anaconda o Miniconda en tu sistema.
+Seleccione un nombre para su entorno virtual. Asegúrese de evitar espacios en blanco, caracteres especiales, acentos u otros símbolos. 
 
-4. **Verificar Entornos Existentes (Opcional)**  
-   Lista todos los entornos disponibles para evitar nombres duplicados:  
-   ```bash
-   conda env list
+Se recomienda utilizar un nombre simple y descriptivo. Por ejemplo, para el **SEA (Semillero en Electrónica Aplicada)**, puede usar un nombre como:  
+`ai`.
