@@ -29,7 +29,7 @@ Existen diversas herramientas para crear entornos virtuales para Python, como po
 
 **Creación del nuevo entorno virtual**
 
-- Una ves tienes conda instalado y el nombre seleccionado, tu puedes crear el nuevo entorno virtual, para esto utiliza el comando `conda create`, como se muestra a continuación:
+- Una vez has instalado `conda` y seleccionado el nombre de tu entorno virtual, puedes crearlo, para ello utiliza el comando `conda create`, como se muestra a continuación:
 
     ```console
    conda create --name ia python=3.8
