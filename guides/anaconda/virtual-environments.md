@@ -15,4 +15,5 @@ Existen diversas herramientas para crear entornos virtuales para Python, como po
 - Verificar entornos existentes (Opcional)  
    Lista todos los entornos disponibles para evitar nombres duplicados:  
    ```bash
-   conda env list```
+   conda env list
+   ```
