@@ -25,12 +25,12 @@
    - En el menu de inicio de windows debera observar una carpeta con el nombre Anaconda3 (64/32-bits), y en su interior aplicaciones como: Anaconda Navigator, Anaconda Prompt, Anaconda Powershell Prompt, entre otras.
    - Ejecute Anaconda Powershell Prompt y luego escriba:
      
-   ```bat
+   ```console
    python --version
    ```
    Esto debera imprimir la versión del interprete python. Por ejemplo:
 
-   ```bat
+   ```console
    (base) PS C:\Users\jferb> python --version
    Python 3.11.5
    ```
