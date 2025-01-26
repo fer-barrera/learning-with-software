@@ -27,7 +27,7 @@ La siguiente tabla presenta el listado de aplicaciones y librerías necesarias p
 
 ## Guías de instalación de software
 
-- [Anaconda](guides/anaconda/conda-install.md)
+- [Anaconda](guides/anaconda/anaconda-install.md)
 
 
 Run the JDK tools from this Snap package in a stricty-confined environment:
