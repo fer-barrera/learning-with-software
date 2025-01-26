@@ -7,4 +7,4 @@ Existen diversas herramientas para crear entornos virtuales para Python, como po
 **Nombre del Entorno Virtual**
 
 - Seleccione un nombre para su entorno virtual. Asegúrese de evitar espacios en blanco, caracteres especiales, acentos u otros símbolos. 
-- Se recomienda utilizar un nombre simple y descriptivo. Por ejemplo, para el **SEA (Semillero en Electrónica Aplicada)**, puede usar:  `ai`.
+- Se recomienda utilizar un nombre simple y descriptivo. Por ejemplo, para el **SEA** (Semillero en Electrónica Aplicada), puede usar:  `ai`.
