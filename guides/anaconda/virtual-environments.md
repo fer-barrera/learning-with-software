@@ -6,7 +6,7 @@ Existen diversas herramientas para crear entornos virtuales para Python, como po
 ## Pasos para Crear un Entorno Virtual
 
 1. **Consulte el nombre sugerido para el entorno virtual**
-   * por ejemplo, `ai` para SEA (Semillero en Electroónica Aplicada).
+   * por ejemplo: `ai` para el SEA (Semillero en Electrónica Aplicada).
 3. **Abrir la Terminal o el Anaconda Prompt**  
    Asegúrate de tener instalado Anaconda o Miniconda en tu sistema.
 
