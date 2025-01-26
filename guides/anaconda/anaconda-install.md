@@ -26,6 +26,6 @@
    - Ejecute Anaconda Powershell Prompt y luego escriba:
      
 ```console
+# versión de python
 python --version
-
 ```
