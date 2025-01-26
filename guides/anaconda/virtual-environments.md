@@ -35,5 +35,5 @@ Existen diversas herramientas para crear entornos virtuales para Python, como po
    conda create --name ia python=3.8
    ```
 
-- Este comando crea un nuevo entorno virtual llamado `ìa` con Python `3.8`
+- Este comando crea un nuevo entorno virtual llamado `ia` con Python `3.8.0`. Recuerda que puedes cambiar el nombre del entorno virtual y la versión de Python instalada. 
 
