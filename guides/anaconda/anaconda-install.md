@@ -21,3 +21,5 @@
    - **Choose install location:** Cuando se pregunte por la ruta de instalación escriba: C:\apps\anaconda3
    - **Advanced installation options:** Cuando se pregunte por las opciones avanzadas de instalación, seleccione la opción: “Anaconda as my default Python 3.x environment''. Esto habilita el entorno virtual base de Anaconda como el interprete por defecto del sistema operativo.
 3. Finalice el proceso de instalación.
+4. Verifique su instalación:
+   - En el menu de inicio de windows debera observar una carpeta con el nombre Anaconda3, en su interior aplicaciones como: Anaconda Navigator, Anaconda Prompt, Anaconda Powershell Prompt, entre otras.
