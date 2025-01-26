@@ -23,10 +23,13 @@
 4. Verifique su instalación:
    - En el menu de inicio de windows debera observar una carpeta con el nombre Anaconda3 (64/32-bits), y en su interior aplicaciones como: Anaconda Navigator, Anaconda Prompt, Anaconda Powershell Prompt, entre otras.
    - Ejecute Anaconda Powershell Prompt y luego escriba:
+     
       ```console
       python --version
       ```
+   
    - El anterior comando debera imprimir la versión del interprete python. Por ejemplo:
+     
       ```console
       (base) PS C:\Users\jferb> python --version
       Python 3.11.5
