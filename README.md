@@ -13,7 +13,7 @@ La siguiente tabla presenta el listado de aplicaciones y librerías necesarias p
 
 ### Tabla de configuración
 
-| Cursos                    | 1. Anaconda | 2. Entorno virtual[^1] | 3. Jupiter |
+| Cursos                    | 1. Anaconda | 2. Entorno virtual[^1] | 3. Jupyter |
 | :------------------------ | :---------: | :---                   | :---:      |
 | Visión por computadora    | ✓           | cv                     | ✓         |
 | Señales y sistemas        | ✓           | signalsys              | ✓         |
@@ -29,3 +29,4 @@ La siguiente tabla presenta el listado de aplicaciones y librerías necesarias p
 
 - [Anaconda](guides/anaconda/anaconda-install.md)
 - [Entorno virtual](guides/anaconda/virtual-environments.md)
+- [Jupyter](guides/anaconda/jupyter.md)
