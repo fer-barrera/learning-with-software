@@ -5,7 +5,7 @@ Existen diversas herramientas para crear entornos virtuales en Python, como por 
 ## Pasos para crear un entorno virtual
 
 **Verifica si conda esta instalado correctamente**
-- Ejecuta `Anaconda Powershell Prompt` (menu de inicio de windows).
+- Ejecuta `Anaconda Powershell Prompt` (Anaconda Powershell Prompt).
 - Digita conda -V en la consola.
   
    ```console
