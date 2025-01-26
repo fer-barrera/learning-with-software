@@ -44,7 +44,7 @@ Sigue estos pasos para instalar Jupyter Notebook y configurar tu entorno virtual
     
     - Ejecutar desde el menu inicio windows &rarr;  Anaconda3 (64-bit) &rarr; Jupiter Notebook.
     
-    - Ó EjecutaR el siguiente comando desde la consola:
+    - Ó Ejecuta el siguiente comando desde la consola:
 
        ```console
        jupyter notebook
