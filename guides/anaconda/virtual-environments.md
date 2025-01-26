@@ -50,7 +50,7 @@ Existen diversas herramientas para crear entornos virtuales en Python, como por 
 - Si el comando se ejecutó correctamente, deberías observar algo similar a:
 
   ```console
-  (base) PS C:\Users\jferb> conda activate ia
+  (base) PS C:\Users\jferb> conda activate ai
   (ia) PS C:\Users\jferb>
   ```
   
