@@ -40,7 +40,13 @@ Sigue estos pasos para instalar Jupyter Notebook y configurar tu entorno virtual
 
 **Inicia Jupyter Notebook**
 
-   ```console
-   jupyter notebook
-   ```
+- Para ejecutar Jupyter tiene dos opciones:
+    
+    - Ejecuta menu inicio windows &rarr &rarr Jupiter Notebook.
+    
+    - Ejecuta el siguiente comando en la consola:
+
+       ```console
+       jupyter notebook
+       ```
 
