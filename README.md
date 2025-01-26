@@ -3,23 +3,23 @@ This repository provides detailed installation guides for essential software and
 
 ## Guía de instalación
 
-La siguiente tabla contiene las instrucciones para instalar las aplicaciones y librerías requeridas según tu curso.
+La siguiente tabla presenta las instrucciones necesarias para instalar las aplicaciones y librerías requeridas según tu curso.
 
 ### Instrucciones
 
 1. **Identifica tu curso:** Busca el nombre de tu curso en la columna **"Cursos"**.
-2. **Revisa las columnas siguientes:** Cada columna representa una aplicación, librería o instrucción. Si apareceel simbolo **"✓"**, significa que debes instalarla. Por el contrario, celdas vacias indican que no son necesarias para tu curso.
-3. **Sigue el orden de instalación:** Instala cada elemento en el orden en que aparecen las columnas de izquierda a derecha.
+2. **Identifica el software requerido:** Revisa las columnas siguientes ya que ellas indican que aplicación, librería o instrucción deberas instalar o seguir, solo son necesarias las que tienen el simbolo **"✓"**. Una celda vacia indica omitir o no realizar.
+3. **Sigue el orden de instalación:** Instala cada elemento en el orden en que aparecen las columnas, es decir, de izquierda a derecha.
 
 ### Tabla de instalación
 
-| CURSOS                    | 1. Anaconda | Nombre del entorno virtual[^1] | 2. Jupiter |
-| :------------------------ | :---------: | :---                           | :---:      |
-| Visión por computadora    | ✓           | cv                             | ✓         |
-| Señales y sistemas        | ✓           | signalsys                      | ✓         |
-| Calculo diferencial       | ✓           | math                           | ✓         |
-| SEA                       | ✓           | ia                             | ✓         |
-| Servicios web             | ✓           | websrv                         |           |
+| Cursos                    | 1. Anaconda | Entorno virtual[^1] | 2. Jupiter |
+| :------------------------ | :---------: | :---                | :---:      |
+| Visión por computadora    | ✓           | cv                  | ✓         |
+| Señales y sistemas        | ✓           | signalsys           | ✓         |
+| Calculo diferencial       | ✓           | math                | ✓         |
+| SEA                       | ✓           | ia                  | ✓         |
+| Servicios web             | ✓           | websrv              |           |
 
 [^1]: Nombre sugerido para el entorno virtual (no es obligatorio).
 
