@@ -23,3 +23,5 @@
 3. Finalice el proceso de instalación.
 4. Verifique su instalación:
    - En el menu de inicio de windows debera observar una carpeta con el nombre Anaconda3, en su interior aplicaciones como: Anaconda Navigator, Anaconda Prompt, Anaconda Powershell Prompt, entre otras.
+   - Ejecute Anaconda Powershell Prompt.
+   - 
