@@ -8,8 +8,8 @@ La siguiente tabla presenta las instrucciones necesarias para instalar las aplic
 ### Instrucciones
 
 1. **Identifica tu curso:** Busca el nombre de tu curso en la columna **"Cursos"**.
-2. **Identifica el software requerido:** Revisa las columnas siguientes ya que ellas indican que aplicación, librería o instrucción deberas instalar o seguir, solo son necesarias las que tienen el simbolo **"✓"**. Una celda vacia indica omitir o no realizar.
-3. **Sigue el orden de instalación:** Instala cada elemento en el orden en que aparecen las columnas, es decir, de izquierda a derecha.
+2. **Identifica el software requerido:** Revisa las columnas siguientes ya que ellas indican que aplicación, librería o instrucción deberas seguir o instalar para tener tu plataforma de desarrollo operativa. Solo son necesarias aquellas que tienen el simbolo **"✓"**. Una celda vacia indica omitir o no realizar.
+3. **Sigue el orden de instalación:** Instala cada elemento en el orden en el que aparecen las columnas, es decir, de izquierda a derecha.
 
 ### Tabla de instalación
 
