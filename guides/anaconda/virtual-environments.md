@@ -12,10 +12,12 @@ Existen diversas herramientas para crear entornos virtuales para Python, como po
 **Verifica si `conda` esta instalado correctamente**
 - Ejecuta `Anaconda Powershell Prompt` (menu de inicio de windows).
 - Digita conda -V en la consola.
+  
    ```console
    conda -V
    ```
-- Si `conda` está instalado correctamente en su sistema, debería ver una salida similar.
+- Si `conda` está instalado correctamente en su sistema, debería observar una salida similar.
+  
    ```console
   (base) PS C:\Users\jferb> conda -V
   conda 23.7.4
