@@ -26,7 +26,7 @@
       ```console
       python --version
       ```
-   - Esto debera imprimir la versión del interprete python. Por ejemplo:
+   - El anterior comando debera imprimir la versión del interprete python. Por ejemplo:
       ```console
       (base) PS C:\Users\jferb> python --version
       Python 3.11.5
