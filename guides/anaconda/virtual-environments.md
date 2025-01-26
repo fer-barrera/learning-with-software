@@ -37,7 +37,7 @@ Existen diversas herramientas para crear entornos virtuales en Python, como por 
    conda create --name nombre_entorno python=3.8
    ```
 
-- Este comando crea un nuevo entorno virtual llamado `ai` con Python `3.8.0`. Recuerda que puedes cambiar su nombre y la versión de Python preinstalada. 
+- Por ejemplo, para crear un entorno virtual para el Semillero en Electrónica Aplicada con Python `3.8.0` sustituye `nombre_entorno` con `ai`. Recuerda que puedes cambiar su nombre y la versión de Python preinstalada. 
 
 **Activación del entorno**
 
