@@ -28,4 +28,4 @@ Sigue estos pasos para instalar Jupyter Notebook y configurar tu entorno virtual
 ipython kernel install --user --name=nombre_entorno-kernel
 ```
 
-- Por ejemplo,  por ejemplo `ai-kernel` para SEA (Semillero en Electrónica Aplicada).
+- Por ejemplo,  sustituye nombre_entorno-kernel por `ai-kernel` para SEA (Semillero en Electrónica Aplicada).
