@@ -24,7 +24,7 @@ Sigue estos pasos para instalar Jupyter Notebook y configurar tu entorno virtual
   
 **Registrar el entorno virtual como un kernel**
 
-- Usa el siguiente comando para registrar tu entorno virtual en Jupyter Notebook. Sustituye 'nombre_entorno' con el nombre que desees mostrar en Jupyter:
+- Usa el siguiente comando para registrar tu entorno virtual en Jupyter Notebook. Sustituye `nombre_entorno` con el nombre que desees mostrar en Jupyter:
 
     ```console
     ipython kernel install --user --name=nombre_entorno-kernel
