@@ -22,7 +22,7 @@ Sigue estos pasos para instalar las librerias de Python.
   conda install numpy
   ```
 
-- Confirma la instalación escribiendo y cuando se te solicite.
+- Confirma la instalación escribiendo [y] cuando se solicite.
 
 - Note que `NumPy` se instala automáticamente con muchos paquetes científicos en Anaconda, como Jupyter Notebook y SciPy.
 
