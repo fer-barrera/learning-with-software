@@ -26,4 +26,17 @@ Sigue estos pasos para instalar las librerias de Python.
 
 - Note que `NumPy` se instala automáticamente con muchos paquetes científicos en Anaconda, como Jupyter Notebook y SciPy.
 
+** Verificar la instalación**
+
+Una vez instalada, puedes verificar si NumPy se instaló correctamente:
+
+- Escribe python en la terminal para abrir el intérprete de Python.
+
+  ```console
+  import numpy as np
+  print(np.__version__)
+  ```
+  
+- Si no aparece ningún error y muestra una versión, ¡NumPy está instalado correctamente!
+
 
