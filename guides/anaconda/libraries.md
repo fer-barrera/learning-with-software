@@ -14,10 +14,16 @@ Sigue estos pasos para instalar las librerias de Python.
 
 - Sustituye `nombre_entorno` con el nombre del entorno virtual que desea utilizar. por ejemplo `ai` para SEA (Semillero en Electrónica Aplicada).
   
-**Instala el paquete ipykernel**
+**Instala el paquete NumPy**
 
-- Agrega el soporte de kernel para el entorno virtual activado, en la consola digita el siguiente comando:
+- En la consola escribe el siguiente comando:
 
   ```console
-  conda install -c anaconda ipykernel
+  conda install numpy
   ```
+
+- Confirma la instalación escribiendo y cuando se te solicite.
+
+- Note que `NumPy` se instala automáticamente con muchos paquetes científicos en Anaconda, como Jupyter Notebook y SciPy.
+
+
