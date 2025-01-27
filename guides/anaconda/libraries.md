@@ -30,7 +30,7 @@ Sigue estos pasos para instalar las librerias de Python.
 
 Una vez instalada, puedes verificar si NumPy se instaló correctamente:
 
-- Escribe `python` en la terminal para abrir el intérprete de Python.
+- Escribe `python` en la terminal para abrir el intérprete de Python. Luego escribe:
 
   ```console
   import numpy as np
