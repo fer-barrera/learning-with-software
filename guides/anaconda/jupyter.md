@@ -40,11 +40,11 @@ Sigue estos pasos para instalar Jupyter Notebook y configurar tu entorno virtual
 
 **Inicia Jupyter Notebook**
 
-- Para ejecutar Jupyter tiene dos opciones:
+- Para ejecutar el servidor de Jupyter tiene dos opciones:
     
-    - Ejecutar desde el menu inicio windows &rarr;  Anaconda3 (64-bit) &rarr; Jupiter Notebook.
+    - Ejecutar la aplicación desde el menu inicio windows &rarr;  Anaconda3 (64-bit) &rarr; Jupiter Notebook.
     
-    - Ó Ejecuta el siguiente comando desde la consola:
+    - Ó ejecutando el siguiente comando desde la consola:
 
        ```console
        jupyter notebook
