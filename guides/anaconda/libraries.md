@@ -39,4 +39,26 @@ Una vez instalada, puedes verificar si NumPy se instaló correctamente:
   
 - Si no aparece ningún error y muestra una versión, ¡NumPy está instalado correctamente!
 
+**Instalar Matplotlib**
+
+- Escribe el siguiente comando en la terminal para instalar Matplotlib usando conda:
+
+  ```console
+  conda install matplotlib
+  ```
+
+- Cuando aparezca un mensaje de confirmación, escribe [y] y presiona `Enter` para continuar.
+
+**Verificar la instalación**
+
+Una vez que la instalación haya terminado, verifica si Matplotlib se instaló correctamente:
+
+- Escribe `python` en la terminal para abrir el intérprete de Python. Luego, escribe este código para probar:
+
+  ```console
+  import matplotlib.pyplot as plt
+  print(plt.__version__)
+  ```
+  
+- Si no aparece ningún error y muestra una versión (por ejemplo, 3.x.x), Matplotlib está instalado correctamente.
 
