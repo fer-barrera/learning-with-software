@@ -13,13 +13,13 @@ La siguiente tabla presenta el listado de aplicaciones y librerías necesarias p
 
 ### Tabla de configuración
 
-| Cursos                    | 1. Anaconda | 2. Entorno virtual[^1] | 3. Jupyter |
-| :------------------------ | :---------: | :---                   | :---:      |
-| Visión por computadora    | ✓           | cv                     | ✓         |
-| Señales y sistemas        | ✓           | signalsys              | ✓         |
-| Calculo diferencial       | ✓           | math                   | ✓         |
-| SEA                       | ✓           | ai                     | ✓         |
-| Servicios web             | ✓           | websrv                 |           |
+| Cursos                    | 1. Anaconda | 2. Entorno virtual[^1] | 3. Jupyter | 4. numpy | 5. matplotlib |
+| :------------------------ | :---------: | :---                   | :---:      | :---:    | :---:         |
+| Visión por computadora    | ✓           | cv                     | ✓         | ✓        | ✓             |
+| Señales y sistemas        | ✓           | signalsys              | ✓         | ✓        | ✓             |
+| Calculo diferencial       | ✓           | math                   | ✓         | ✓        | ✓             |
+| SEA                       | ✓           | ai                     | ✓         | ✓        | ✓             |
+| Servicios web             | ✓           | websrv                 |           |           | ✓             |
 
 [^1]: Nombre sugerido para el entorno virtual (no es obligatorio).
 
