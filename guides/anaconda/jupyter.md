@@ -50,4 +50,4 @@ Sigue estos pasos para instalar Jupyter Notebook y configurar tu entorno virtual
        jupyter notebook
        ```
 
-    - Recuerde que Jupyter estará activo **mientras la consola permanezca abierta**. Si cierra la cierra, el servidor de Jupyter se detendrá, lo que hará que la página web de Jupyter Notebook deje de funcionar.
+    - Recuerde que Jupyter estará activo **mientras la consola permanezca abierta**. Si la cierra o detiene el proceso, el servidor de Jupyter se detendrá, y el entorno de desarrollo web de Jupyter Notebook dejará de funcionar (página web).
