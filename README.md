@@ -30,3 +30,4 @@ La siguiente tabla presenta el listado de aplicaciones y librerías necesarias p
 - [Anaconda](guides/anaconda/anaconda-install.md)
 - [Entorno virtual](guides/anaconda/virtual-environments.md)
 - [Jupyter](guides/anaconda/jupyter.md)
+- [Librerias](guides/anaconda/libraries.md)
