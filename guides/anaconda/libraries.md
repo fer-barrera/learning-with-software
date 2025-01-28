@@ -14,7 +14,7 @@ Sigue estos pasos para instalar las librerias de Python.
 
 - Sustituye `nombre_entorno` con el nombre del entorno virtual que desea utilizar. por ejemplo `ai` para SEA (Semillero en Electrónica Aplicada).
   
-**Instala el paquete NumPy**
+## Instala el paquete NumPy
 
 - En la consola escribe el siguiente comando:
 
@@ -39,7 +39,7 @@ Una vez instalada, puedes verificar si NumPy se instaló correctamente:
   
 - Si no aparece ningún error y muestra una versión, ¡NumPy está instalado correctamente!
 
-**Instalar Matplotlib**
+## Instalar Matplotlib
 
 - Escribe el siguiente comando en la terminal para instalar Matplotlib usando conda:
 
