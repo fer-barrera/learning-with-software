@@ -1,5 +1,7 @@
 <h1 align="center">Learning with Software</h1>
+
 [![License: MIT][license-image]][license-url]
+
 This repository provides detailed installation guides for essential software and tools designed to facilitate learning and research in computer science, mathematics, signals and systems, and computer vision. 
 
 ## Configuración del entorno de desarrollo
