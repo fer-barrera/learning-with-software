@@ -10,7 +10,7 @@
 - [Contacts](#%EF%B8%8F-contacts)
 --->
 
-This repository provides detailed installation guides for essential software and tools designed to facilitate learning and research in computer science, mathematics, signals and systems, and computer vision. 
+Este repositorio reúne un conjunto de detalladas guías de instalación para diversas aplicaciones y herramientas de software, diseñadas con el fin de agilizar el aprendizaje y fomentar la investigación en los campos de las ciencias de la computación, las matemáticas, las señales y sistemas, y la visión por computadora.
 
 ## Configuración del entorno de desarrollo
 
