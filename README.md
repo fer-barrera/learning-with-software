@@ -10,7 +10,7 @@
 - [Contacts](#%EF%B8%8F-contacts)
 --->
 
-Este repositorio reúne un conjunto de detalladas guías de instalación para diversas aplicaciones y herramientas de software, diseñadas con el fin de agilizar el aprendizaje y fomentar la investigación en los campos de las ciencias de la computación, las matemáticas, las señales y sistemas, y la visión por computadora.
+Este repositorio reúne un conjunto de guías de instalación para diversas aplicaciones y herramientas software, diseñadas con el fin de agilizar el aprendizaje y fomentar la investigación en los campos de las ciencias de la computación, visión por computadora, matemáticas, e ingeniría.
 
 ## Configuración del entorno de desarrollo
 
