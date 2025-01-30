@@ -1,4 +1,4 @@
-<h1 align="center">Learning with software</h1>
+<h1 align="center">Learning with Software</h1>
 
 This repository provides detailed installation guides for essential software and tools designed to facilitate learning and research in computer science, mathematics, signals and systems, and computer vision. 
 
