@@ -10,7 +10,7 @@
 - [Contacts](#%EF%B8%8F-contacts)
 --->
 
-Este repositorio reúne un conjunto de guías de instalación para diversas aplicaciones y herramientas software, diseñadas con el fin de agilizar el aprendizaje y fomentar la investigación en los campos de las ciencias de la computación, visión por computadora, matemáticas, e ingeniría.
+Este repositorio reúne un conjunto de guías de instalación para diversas aplicaciones y herramientas software. Estas presentan en forma resumida los pasos necesarios para la configuración y puesta en marcha de una plataforma de desarrollo software, principalmente basada en Python, para fomentar el aprendizaje e investigación en areas como: ciencias de la computación, visión por computadora, matemáticas, e ingeniría.
 
 ## Configuración del entorno de desarrollo
 
