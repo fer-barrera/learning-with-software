@@ -2,12 +2,6 @@
 
 [Anaconda](https://www.anaconda.com/) es **un ecosistema multiplataforma** para el desarrollo de aplicaciones en Python. Este incluye tanto **herramientas** como **librerias precompiladas**, especialmente diseñadas para facilitar la gestión de recursos computacionales en proyectos de aprendizaje automático, ciencia de datos, sistemas distribuidos, e inteligencia artificial, solo por mencionar algunos.
 
-## Ventajas de Anaconda
-
-* Permite instalar y actualizar paquetes de forma independiente de las librerias del sistema, sin necesidad de modificar los privilegios del usuario.
-* Simplifica la gestión de dependencias, evitando incompatibilidades entre diferentes versiones de un mismo paquete.  
-* Minimiza el riesgo de alterar las librerias del sistema, lo que garantiza un entorno estable y seguro.
-
 ## Guía de instalación
 
 1. Descargue el instalador de [Anaconda](https://www.anaconda.com/download).
