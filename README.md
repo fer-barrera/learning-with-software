@@ -11,17 +11,13 @@
 --->
 En el ámbito de la Ingeniería Electrónica, la integración de herramientas de software se ha convertido en un factor determinante para el desarrollo de proyectos académicos e investigativos de alto impacto. Con el propósito de apoyar estas actividades, se ha desarrollado Learning with Software, un repositorio que reúne un conjunto de guías para instalar, configurar y poner en marcha diversos recursos de software, principalmente en Python, destinados a impulsar la integración de la electrónica con áreas como la inteligencia artificial, visión por computadora, y ciencias de la computación.
 
-## Configuración del entorno de desarrollo
+## Aplicaciones
 
-Las siguientes tablas presentan el listado de aplicaciones y librerías necesarias para configurar tu entorno de desarrollo por curso.
-
-### Aplicaciones
-
-  1. **Localiza tu curso:** Revise la columna **"Cursos"**.  
-  2. **Instala las aplicaciones marcadas con "✓":** Ignora aquelas con la celdas vacías.  
+  1. **Localiza tu curso:** Revisa la Tabla 1, columna **"Cursos"**.  
+  2. **Instala las aplicaciones marcadas con "✓":** Ignora aquellas con la celda vacía.  
   3. **Sigue el orden de las columnas:** De izquierda a derecha, conforme al número asignado a cada columna.
 
-**Tabla de aplicaciones**
+**Tabla 1.** Aplicaciones
 | Cursos                    | 1. Anaconda | 2. Entorno virtual [^1] | 3. Jupyter | 4. Visual code |
 | :------------------------ | :---------: | :---                    | :---:      |  :---:         | 
 | Visión por computadora    | ✓           | cv                      | ✓          |               |
@@ -31,16 +27,16 @@ Las siguientes tablas presentan el listado de aplicaciones y librerías necesari
 | Servicios web             | ✓           | websrv                  |            | ✓             |
 [^1]: Nombre sugerido para el entorno virtual (no es obligatorio).
 
-### Librerias
+## Librerias
 
-  1. **Localiza tu curso:** Revise la columna **"Cursos"**.  
-  2. **Instala las aplicaciones marcadas con "✓":** Ignora aquelas con la celdas vacías.  
+  1. **Localiza tu curso:** Revisa la Tabla 2, columna **"Cursos"**.  
+  2. **Instala las librerias marcadas con "✓":** Ignora aquellas con la celda vacía.  
   3. **Sigue el orden de las columnas:** De izquierda a derecha, conforme al número asignado a cada columna.
 
-**Tabla de librerias**
+**Tabla 2.** Librerias
 | Cursos                    | 1. numpy | 2. matplotlib | 3. scikit-learn | 4. pandas | 5. seaborn |
 | :------------------------ | :---:    | :---:         | :---:           | :---:     | :---:      |
-| Visión por computadora    |  ✓       | ✓             | ✓              |           |            |
+| Visión por computadora    | ✓        | ✓             | ✓              |           |            |
 | Señales y sistemas        | ✓        | ✓             |                |            |            |
 | Calculo diferencial       | ✓        | ✓             |                |            |           |
 | SEA                       | ✓        | ✓             | ✓              |  ✓        | ✓         |
