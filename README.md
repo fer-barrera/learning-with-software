@@ -26,7 +26,7 @@ La siguiente tabla presenta el listado de aplicaciones y librerías necesarias p
 | Cursos                    | 1. Anaconda | 2. Entorno virtual[^1] | 3. Jupyter | 4. numpy | 5. matplotlib | 6. scikit-learn | 7. pandas | 8. seaborn |
 | :------------------------ | :---------: | :---                   | :---:      | :---:    | :---:         | :---:           | :---:     | :---:      |
 | Visión por computadora    | ✓           | cv                     | ✓         | ✓        | ✓             | ✓              |           |            |
-| Señales y sistemas        | ✓           | signalsys              | ✓         | ✓        | ✓             |                |            |           |
+| Señales y sistemas        | ✓           | signalsys              | ✓         | ✓        | ✓             |                |            ||
 | Calculo diferencial       | ✓           | math                   | ✓         | ✓        | ✓             |                |            |           |
 | SEA                       | ✓           | ai                     | ✓         | ✓        | ✓             | ✓              |  ✓        | ✓         |
 | Servicios web             | ✓           | websrv                 |           |           | ✓             |                |            |           |
