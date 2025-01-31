@@ -1,7 +1,13 @@
 <a name="top"></a>
 <h1 align="center">Learning with Software</h1>
 
+<div  align="center">
+  
 En el ámbito de la Ingeniería Electrónica, la integración de herramientas de software se ha convertido en un factor determinante para el desarrollo de proyectos académicos e investigativos de alto impacto. Con el propósito de apoyar estas actividades, se ha desarrollado Learning with Software, un repositorio que reúne un conjunto de guías para instalar, configurar y poner en marcha diversos recursos de software, principalmente en Python, destinados a impulsar la integración de la electrónica con áreas como la inteligencia artificial, visión por computadora, y ciencias de la computación.
+
+[Instalación de aplicaciones](#installation) •
+
+</div>
 
 ## Instalación de aplicaciones
 
@@ -10,6 +16,7 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
   3. **Sigue el orden de las columnas:** De izquierda a derecha, conforme al número asignado a cada columna.
 
 <div  align="center">
+  
 **Tabla 1.** Aplicaciones
 | Cursos                    | 1. Anaconda | 2. Entorno virtual [^1] | 3. Jupyter | 4. Visual code |
 | :------------------------ | :---------: | :---                    | :---:      |  :---:         | 
@@ -19,6 +26,7 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 | SEA                       | ✓           | ai                      | ✓          |               |
 | Servicios web             | ✓           | websrv                  |            | ✓             |
 [^1]: Nombre sugerido para el entorno virtual (no es obligatorio).
+
 </div>
 
 ## Instalación de librerias
@@ -28,6 +36,7 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
   3. **Sigue el orden de las columnas:** De izquierda a derecha, conforme al número asignado a cada columna.
 
 <div  align="center">
+
 **Tabla 2.** Librerias
 | Cursos                    | 1. numpy | 2. matplotlib | 3. scikit-learn | 4. pandas | 5. seaborn |
 | :------------------------ | :---:    | :---:         | :---:           | :---:     | :---:      |
@@ -36,6 +45,7 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 | Calculo diferencial       | ✓        | ✓             |                |            |           |
 | SEA                       | ✓        | ✓             | ✓              |  ✓        | ✓         |
 | Servicios web             |          | ✓             |                |            |           |
+
 </div>
 
 > **Nota:** Sigue el orden indicado de izquierda a derecha para evitar errores durante la instalación.
