@@ -6,8 +6,8 @@
 
 </div>
 
-> [!Precaución]
-> Advises about risks or negative outcomes of certain actions.
+> [!CAUTION]
+> Antes de realizar algún punto de la guía, primero lea las instrucciones asociadas.
 
 ## 📝 Guía de instalación
 
