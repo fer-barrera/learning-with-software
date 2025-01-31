@@ -10,7 +10,7 @@
 - [Contacts](#%EF%B8%8F-contacts)
 --->
 
-Este repositorio reúne un conjunto de guías de instalación para diversas aplicaciones y herramientas software. Estas presentan en forma resumida los pasos necesarios para la configuración y puesta en marcha de una plataforma de desarrollo software, principalmente basada en Python, para fomentar el aprendizaje e investigación en areas como: ciencias de la computación, visión por computadora, matemáticas, e ingeniría.
+Este repositorio reúne un conjunto de guías para instalar varias herramientas software que apoyan procesos educativos e investigativos en el programa de Ingenieria Electrónia de la Universidad Surcolombiana. Cada guía presenta en forma resumida el procedimiento para instalar, configurar, y poner en marcha una plataforma de desarrollo software, principalmente basada en Python, para fomentar el aprendizaje e investigación en areas como: ciencias de la computación, visión por computadora, matemáticas, e ingeniría.
 
 ## Configuración del entorno de desarrollo
 
@@ -24,13 +24,13 @@ La siguiente tabla presenta el listado de aplicaciones y librerías necesarias p
 
 ### Tabla de configuración
 
-| Cursos                    | 1. Anaconda | 2. Entorno virtual[^1] | 3. Jupyter | 4. numpy | 5. matplotlib | 6. scikit-learn |
-| :------------------------ | :---------: | :---                   | :---:      | :---:    | :---:         | :---:           |
-| Visión por computadora    | ✓           | cv                     | ✓         | ✓        | ✓             | ✓              |
-| Señales y sistemas        | ✓           | signalsys              | ✓         | ✓        | ✓             |                 |
-| Calculo diferencial       | ✓           | math                   | ✓         | ✓        | ✓             |                 |
-| SEA                       | ✓           | ai                     | ✓         | ✓        | ✓             |  ✓              |
-| Servicios web             | ✓           | websrv                 |           |           | ✓             |                 |
+| Cursos                    | 1. Anaconda | 2. Entorno virtual[^1] | 3. Jupyter | 4. numpy | 5. matplotlib | 6. scikit-learn | 7. pandas |
+| :------------------------ | :---------: | :---                   | :---:      | :---:    | :---:         | :---:           | :---:           |
+| Visión por computadora    | ✓           | cv                     | ✓         | ✓        | ✓             | ✓              | :---:           |
+| Señales y sistemas        | ✓           | signalsys              | ✓         | ✓        | ✓             |                 |:---:           |
+| Calculo diferencial       | ✓           | math                   | ✓         | ✓        | ✓             |                 |:---:           |
+| SEA                       | ✓           | ai                     | ✓         | ✓        | ✓             |  ✓              |:---:           |
+| Servicios web             | ✓           | websrv                 |           |           | ✓             |                 |:---:           |
 
 [^1]: Nombre sugerido para el entorno virtual (no es obligatorio).
 
