@@ -1,7 +1,10 @@
+<div  align="center">
+   
 # Anaconda
 
 [Anaconda](https://www.anaconda.com/) es **un ecosistema multiplataforma** para el desarrollo de aplicaciones en Python. Este incluye tanto **herramientas** como **librerias precompiladas**, especialmente diseñadas para facilitar la gestión de recursos computacionales en proyectos de aprendizaje automático, ciencia de datos, sistemas distribuidos, e inteligencia artificial, solo por mencionar algunos.
-
+<\div>
+   
 ## 📝 Guía de instalación
 
 1. Descargue el instalador de [Anaconda](https://www.anaconda.com/download).
