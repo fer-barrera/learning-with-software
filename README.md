@@ -1,12 +1,12 @@
 <h1 align="center">Learning with Software</h1>
 
 ## Tabla de contenido
-- [About](#-Aplicaciones)
-- [Certification](#-certification)
+- [Aplicaciones](#-Instalación-de-aplicaciones)
+- [Librerias](#-Instalación-de-librerias)
 
 En el ámbito de la Ingeniería Electrónica, la integración de herramientas de software se ha convertido en un factor determinante para el desarrollo de proyectos académicos e investigativos de alto impacto. Con el propósito de apoyar estas actividades, se ha desarrollado Learning with Software, un repositorio que reúne un conjunto de guías para instalar, configurar y poner en marcha diversos recursos de software, principalmente en Python, destinados a impulsar la integración de la electrónica con áreas como la inteligencia artificial, visión por computadora, y ciencias de la computación.
 
-## Aplicaciones
+## Instalación de aplicaciones
 
   1. **Localiza tu curso:** Revisa la Tabla 1, columna **"Cursos"**.  
   2. **Instala las aplicaciones marcadas con "✓":** Ignora aquellas con la celda vacía.  
@@ -22,7 +22,7 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 | Servicios web             | ✓           | websrv                  |            | ✓             |
 [^1]: Nombre sugerido para el entorno virtual (no es obligatorio).
 
-## Librerias
+## Instalación de librerias
 
   1. **Localiza tu curso:** Revisa la Tabla 2, columna **"Cursos"**.  
   2. **Instala las librerias marcadas con "✓":** Ignora aquellas con la celda vacía.  
