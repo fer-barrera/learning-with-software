@@ -9,11 +9,7 @@
 - [License](#-license)
 - [Contacts](#%EF%B8%8F-contacts)
 --->
-En el ámbito de la Ingeniería Electrónica, la integración de herramientas software se ha convertido en un factor determinante para el desarrollo de proyectos académicos e investigativos de alto impacto. Con el propósito de apoyar estas actividades, se ha desarrollado Learning with Software, un repositorio que reúne un conjunto de guías de instalar, configurar, y poner en marcha de diversos recursos software, principalmente Python, para el exito  en areas como: ciencias de la computación, visión por computadora, matemáticas, e ingeniría.
-
-
-
-Este repositorio reúne un conjunto de guías para instalar varias herramientas software que apoyan procesos educativos e investigativos en el programa de Ingenieria Electrónia de la Universidad Surcolombiana. Cada guía presenta en forma resumida el procedimiento para instalar, configurar, y poner en marcha algún desarrollo software, principalmente en Python. Ente otros objetivos este repositorio pretende fomentar y agilizar el aprendizaje e investigación a traves del software, en areas como: ciencias de la computación, visión por computadora, matemáticas, e ingeniría.
+En el ámbito de la Ingeniería Electrónica, la integración de herramientas de software se ha convertido en un factor determinante para el desarrollo de proyectos académicos e investigativos de alto impacto. Con el propósito de apoyar estas actividades, se ha desarrollado `Learning with Software`, un repositorio que reúne un conjunto de guías para instalar, configurar y poner en marcha diversos recursos de software, principalmente en Python, destinados a impulsar la integración de la electrónica con áreas como la inteligencia artificial, visión por computadora, y ciencias de la computación.
 
 ## Configuración del entorno de desarrollo
 
