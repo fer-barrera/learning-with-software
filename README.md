@@ -21,17 +21,27 @@ La siguiente tabla presenta el listado de aplicaciones y librerías necesarias p
 2. **Identifica las acciones requeridas:** Revisa las columnas siguientes ya que ellas indican que aplicación, librería o instrucción deberas ejecutar para tener tu entorno de desarrollo operativo. Solo son necesarias aquellas que tienen el simbolo **"✓"**. Una celda vacia indica omitir o no realizar.
 3. **Sigue el orden:** Instala cada elemento en el orden en el que aparecen las columnas, es decir, de izquierda a derecha.
 
-### Tabla de configuración
+### Tabla de aplicaciones
 
-| Cursos                    | 1. Anaconda | 2. Entorno virtual [^1] | 3. Jupyter | 4. numpy | 5. matplotlib | 6. scikit-learn | 7. pandas | 8. seaborn |
-| :------------------------ | :---------: | :---                   | :---:      | :---:    | :---:         | :---:           | :---:     | :---:      |
-| Visión por computadora    | ✓           | cv                     | ✓         | ✓        | ✓             | ✓              |           |            |
-| Señales y sistemas        | ✓           | signalsys              | ✓         | ✓        | ✓             |                |            |            |
-| Calculo diferencial       | ✓           | math                   | ✓         | ✓        | ✓             |                |            |           |
-| SEA                       | ✓           | ai                     | ✓         | ✓        | ✓             | ✓              |  ✓        | ✓         |
-| Servicios web             | ✓           | websrv                 |           |           | ✓             |                |            |           |
-
+| Cursos                    | 1. Anaconda | 2. Entorno virtual [^1] | 3. Jupyter | 
+| :------------------------ | :---------: | :---                   | :---:       | 
+| Visión por computadora    | ✓           | cv                     | ✓          | 
+| Señales y sistemas        | ✓           | signalsys              | ✓          | 
+| Calculo diferencial       | ✓           | math                   | ✓          | 
+| SEA                       | ✓           | ai                     | ✓          | 
+| Servicios web             | ✓           | websrv                 |            |
 [^1]: Nombre sugerido para el entorno virtual (no es obligatorio).
+
+### Tabla de librerias
+
+| Cursos                    | 4. numpy | 5. matplotlib | 6. scikit-learn | 7. pandas | 8. seaborn |
+| :------------------------ | :---:    | :---:         | :---:           | :---:     | :---:      |
+| Visión por computadora    |  ✓       | ✓             | ✓              |           |            |
+| Señales y sistemas        | ✓        | ✓             |                |            |            |
+| Calculo diferencial       | ✓        | ✓             |                |            |           |
+| SEA                       | ✓        | ✓             | ✓              |  ✓        | ✓         |
+| Servicios web             |          | ✓             |                |            |           |
+
 
 > **Nota:** Sigue el orden indicado de izquierda a derecha para evitar errores durante la instalación.
 
