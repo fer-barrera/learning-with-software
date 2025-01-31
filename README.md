@@ -9,7 +9,7 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
   3. **Sigue el orden de las columnas:** De izquierda a derecha, conforme al número asignado a cada columna.
 
   **Tabla 1.** Aplicaciones
-  | Cursos                    | 1. Anaconda | 2. Entorno virtual [^1] | 3. Jupyter | 4. Visual code |
+      | Cursos                    | 1. Anaconda | 2. Entorno virtual [^1] | 3. Jupyter | 4. Visual code |
   | :------------------------ | :---------: | :---                    | :---:      |  :---:         | 
   | Visión por computadora    | ✓           | cv                      | ✓          |               |
   | Señales y sistemas        | ✓           | signalsys               | ✓          |               |
