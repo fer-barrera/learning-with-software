@@ -28,6 +28,7 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 
 </div>
 
+<br/>
 
 ## 📚 Instalación de librerias
 
@@ -49,6 +50,8 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 </div>
 
 > **Nota:** Sigue el orden indicado de izquierda a derecha para evitar errores durante la instalación.
+
+<br/>
 
 ## 📋 Guías de instalación
 
