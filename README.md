@@ -6,6 +6,7 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 
 </div>
 
+
 ## 🌐 Instalación de aplicaciones
 
   1. **Localiza tu curso:** Revisa la Tabla 1, columna **"Cursos"**.  
@@ -25,6 +26,7 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 [^1]: Nombre sugerido para el entorno virtual (no es obligatorio).
 
 </div>
+
 
 ## 📚 Instalación de librerias
 
