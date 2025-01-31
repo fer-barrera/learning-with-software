@@ -7,7 +7,7 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 
 </div>
 
-## Instalación de aplicaciones
+## 🌐 Instalación de aplicaciones
 
   1. **Localiza tu curso:** Revisa la Tabla 1, columna **"Cursos"**.  
   2. **Instala las aplicaciones marcadas con "✓":** Ignorando aquellas sin símbolo.
@@ -27,7 +27,7 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 
 </div>
 
-## Instalación de librerias
+## 📚 Instalación de librerias
 
   1. **Localiza tu curso:** Revisa la Tabla 2, columna **"Cursos"**.  
   2. **Instala las librerias marcadas con "✓":** Ignorando aquellas sin símbolo.
