@@ -10,7 +10,7 @@
 - [Contacts](#%EF%B8%8F-contacts)
 --->
 
-Este repositorio reúne un conjunto de guías para instalar varias herramientas software que apoyan procesos educativos e investigativos en el programa de Ingenieria Electrónia de la Universidad Surcolombiana. Cada guía presenta en forma resumida el procedimiento para instalar, configurar, y poner en marcha una plataforma de desarrollo software, principalmente basada en Python, para fomentar el aprendizaje e investigación en areas como: ciencias de la computación, visión por computadora, matemáticas, e ingeniría.
+Este repositorio reúne un conjunto de guías para instalar varias herramientas software que apoyan procesos educativos e investigativos en el programa de Ingenieria Electrónia de la Universidad Surcolombiana. Cada guía presenta en forma resumida el procedimiento para instalar, configurar, y poner en marcha algún desarrollo software, principalmente en Python. Ente otros objetivos este repositorio pretende fomentar y agilizar el aprendizaje e investigación a traves del software, en areas como: ciencias de la computación, visión por computadora, matemáticas, e ingeniría.
 
 ## Configuración del entorno de desarrollo
 
