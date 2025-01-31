@@ -20,7 +20,7 @@ Las siguientes tablas presentan el listado de aplicaciones y librerías necesari
   1. **Localiza tu curso:** Revise la columna **"Cursos"**.  
   2. **Instala las aplicaciones marcadas con "✓":** Ignora aquelas con la celdas vacías.  
   3. **Sigue el orden de las columnas:** De izquierda a derecha, conforme al número asignado a cada columna.
-<table align="center">
+
 **Tabla de aplicaciones**
 | Cursos                    | 1. Anaconda | 2. Entorno virtual [^1] | 3. Jupyter | 4. Visual code |
 | :------------------------ | :---------: | :---                    | :---:      |  :---:         | 
@@ -30,10 +30,15 @@ Las siguientes tablas presentan el listado de aplicaciones y librerías necesari
 | SEA                       | ✓           | ai                      | ✓          |               |
 | Servicios web             | ✓           | websrv                  |            | ✓             |
 [^1]: Nombre sugerido para el entorno virtual (no es obligatorio).
-</table>
-**Tabla de librerias**
 
-| Cursos                    | 4. numpy | 5. matplotlib | 6. scikit-learn | 7. pandas | 8. seaborn |
+### Librerias
+
+  1. **Localiza tu curso:** Revise la columna **"Cursos"**.  
+  2. **Instala las aplicaciones marcadas con "✓":** Ignora aquelas con la celdas vacías.  
+  3. **Sigue el orden de las columnas:** De izquierda a derecha, conforme al número asignado a cada columna.
+
+**Tabla de librerias**
+| Cursos                    | 1. numpy | 2. matplotlib | 3. scikit-learn | 4. pandas | 5. seaborn |
 | :------------------------ | :---:    | :---:         | :---:           | :---:     | :---:      |
 | Visión por computadora    |  ✓       | ✓             | ✓              |           |            |
 | Señales y sistemas        | ✓        | ✓             |                |            |            |
