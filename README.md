@@ -6,6 +6,7 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 
 </div>
 
+<br/><br/>
 
 ## 🌐 Instalación de aplicaciones
 
