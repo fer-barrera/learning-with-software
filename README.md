@@ -48,7 +48,7 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 
 > **Nota:** Sigue el orden indicado de izquierda a derecha para evitar errores durante la instalación.
 
-### Guías de instalación
+## Guías de instalación
 
 - [Anaconda](guides/anaconda/anaconda-install.md)
 - [Entorno virtual](guides/anaconda/virtual-environments.md)
