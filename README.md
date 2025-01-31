@@ -9,6 +9,11 @@
 - [License](#-license)
 - [Contacts](#%EF%B8%8F-contacts)
 --->
+En el ámbito de la Ingeniería Electrónica, la integración de herramientas software se ha convertido en un factor determinante en el desarrollo de proyectos académicos e investigativos de alto impacto. Con el propósito de fomentar el exito de los procesos
+
+El exito de los procesos educativos y de investigación. Con el propósito de apoyar estas actividades, se ha desarrollado un repositorio que reúne guías de instalación y configuración de diversos recursos, diseñadas especialmente para estudiantes de la Universidad Surcolombiana.
+
+
 
 Este repositorio reúne un conjunto de guías para instalar varias herramientas software que apoyan procesos educativos e investigativos en el programa de Ingenieria Electrónia de la Universidad Surcolombiana. Cada guía presenta en forma resumida el procedimiento para instalar, configurar, y poner en marcha algún desarrollo software, principalmente en Python. Ente otros objetivos este repositorio pretende fomentar y agilizar el aprendizaje e investigación a traves del software, en areas como: ciencias de la computación, visión por computadora, matemáticas, e ingeniría.
 
