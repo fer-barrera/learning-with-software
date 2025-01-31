@@ -11,6 +11,8 @@
 > [!CAUTION]
 > Antes de realizar algún punto de la guía, primero lea las instrucciones asociadas.
 
+<br/>
+
 ## 📝 Guía de instalación
 
 1. Descargue el instalador de [Anaconda](https://www.anaconda.com/download).
