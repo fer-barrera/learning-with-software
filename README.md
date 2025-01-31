@@ -13,7 +13,7 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 
 ## Configuración del entorno de desarrollo
 
-La siguiente tabla presenta el listado de aplicaciones y librerías necesarias para configurar tu entorno de desarrollo según tu curso.
+Las siguientes tablas presentan el listado de aplicaciones y librerías necesarias para configurar tu entorno de desarrollo según el curso.
 
 ### Instrucciones
 
