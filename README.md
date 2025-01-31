@@ -8,15 +8,15 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
   2. **Instala las aplicaciones marcadas con "✓":** Ignorando aquellas sin símbolo.
   3. **Sigue el orden de las columnas:** De izquierda a derecha, conforme al número asignado a cada columna.
 
-**Tabla 1.** Aplicaciones
-| Cursos                    | 1. Anaconda | 2. Entorno virtual [^1] | 3. Jupyter | 4. Visual code |
-| :------------------------ | :---------: | :---                    | :---:      |  :---:         | 
-| Visión por computadora    | ✓           | cv                      | ✓          |               |
-| Señales y sistemas        | ✓           | signalsys               | ✓          |               |
-| Calculo diferencial       | ✓           | math                    | ✓          |               |
-| SEA                       | ✓           | ai                      | ✓          |               |
-| Servicios web             | ✓           | websrv                  |            | ✓             |
-[^1]: Nombre sugerido para el entorno virtual (no es obligatorio).
+  **Tabla 1.** Aplicaciones
+  | Cursos                    | 1. Anaconda | 2. Entorno virtual [^1] | 3. Jupyter | 4. Visual code |
+  | :------------------------ | :---------: | :---                    | :---:      |  :---:         | 
+  | Visión por computadora    | ✓           | cv                      | ✓          |               |
+  | Señales y sistemas        | ✓           | signalsys               | ✓          |               |
+  | Calculo diferencial       | ✓           | math                    | ✓          |               |
+  | SEA                       | ✓           | ai                      | ✓          |               |
+  | Servicios web             | ✓           | websrv                  |            | ✓             |
+  [^1]: Nombre sugerido para el entorno virtual (no es obligatorio).
 
 ## Instalación de librerias
 
