@@ -9,9 +9,7 @@
 - [License](#-license)
 - [Contacts](#%EF%B8%8F-contacts)
 --->
-En el ámbito de la Ingeniería Electrónica, la integración de herramientas software se ha convertido en un factor determinante en el desarrollo de proyectos académicos e investigativos de alto impacto. Con el propósito de fomentar el exito de los procesos
-
-El exito de los procesos educativos y de investigación. Con el propósito de apoyar estas actividades, se ha desarrollado un repositorio que reúne guías de instalación y configuración de diversos recursos, diseñadas especialmente para estudiantes de la Universidad Surcolombiana.
+En el ámbito de la Ingeniería Electrónica, la integración de herramientas software se ha convertido en un factor determinante para el desarrollo de proyectos académicos e investigativos de alto impacto. Con el propósito de apoyar estas actividades, se ha desarrollado Learning with Software, un repositorio que reúne un conjunto de guías de instalar, configurar, y poner en marcha de diversos recursos software, principalmente Python, para el exito  en areas como: ciencias de la computación, visión por computadora, matemáticas, e ingeniría.
 
 
 
