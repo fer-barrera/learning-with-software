@@ -41,5 +41,6 @@
       (base) PS C:\Users\jferb> python --version
       Python 3.11.5
       ```
-   
+
+- [Página principal](../../anaconda-install.md)
    
