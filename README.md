@@ -15,21 +15,20 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 
 Las siguientes tablas presentan el listado de aplicaciones y librerías necesarias para configurar tu entorno de desarrollo por curso.
 
-### Instrucciones
+### Aplicaciones
 
-1. **Identifica tu curso:** Busca el nombre de tu curso en la columna **"Cursos"**.
-2. **Identifica las acciones requeridas:** Revisa las columnas siguientes ya que ellas indican que aplicación, librería o instrucción deberas ejecutar para tener tu entorno de desarrollo operativo. Solo son necesarias aquellas que tienen el simbolo **"✓"**. Una celda vacia indica omitir o no realizar.
-3. **Sigue el orden:** Instala cada elemento en el orden en el que aparecen las columnas, es decir, de izquierda a derecha.
+  1. **Localiza tu curso:** Revise la columna **"Cursos"**.  
+  2. **Instala las aplicaciones marcadas con "✓":** Ignora aquelas con la celdas vacías.  
+  3. **Sigue el orden de las columnas:** De izquierda a derecha, conforme al número asignado a cada columna.
 
 **Tabla de aplicaciones**
-
-| Cursos                    | 1. Anaconda | 2. Entorno virtual [^1] | 3. Jupyter | 
-| :------------------------ | :---------: | :---                    | :---:       | 
-| Visión por computadora    | ✓           | cv                      | ✓          | 
-| Señales y sistemas        | ✓           | signalsys               | ✓          | 
-| Calculo diferencial       | ✓           | math                    | ✓          | 
-| SEA                       | ✓           | ai                      | ✓          | 
-| Servicios web             | ✓           | websrv                  |            |
+| Cursos                    | 1. Anaconda | 2. Entorno virtual [^1] | 3. Jupyter | 4. Visual code |
+| :------------------------ | :---------: | :---                    | :---:      |  :---:         | 
+| Visión por computadora    | ✓           | cv                      | ✓          |               |
+| Señales y sistemas        | ✓           | signalsys               | ✓          |               |
+| Calculo diferencial       | ✓           | math                    | ✓          |               |
+| SEA                       | ✓           | ai                      | ✓          |               |
+| Servicios web             | ✓           | websrv                  |            | ✓             |
 [^1]: Nombre sugerido para el entorno virtual (no es obligatorio).
 
 **Tabla de librerias**
