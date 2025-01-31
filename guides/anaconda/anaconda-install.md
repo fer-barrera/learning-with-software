@@ -4,9 +4,9 @@
 
 [Anaconda](https://www.anaconda.com/) es **un ecosistema multiplataforma** para el desarrollo de aplicaciones en Python. Este incluye tanto **herramientas** como **librerias precompiladas**, especialmente diseñadas para facilitar la gestión de recursos computacionales en proyectos de aprendizaje automático, ciencia de datos, sistemas distribuidos, e inteligencia artificial, solo por mencionar algunos.
 
-<br/><br/>
-
 </div>
+
+<br/><br/>
 
 > [!CAUTION]
 > Antes de realizar algún punto de la guía, primero lea las instrucciones asociadas.
@@ -22,9 +22,7 @@
    - **Installation type (⚙️):** seleccione la opción ''**All users**''. Esto permite instalar el entorno en la raíz del disco. En particular, fuera de la carpeta: mis documentos, lo cual es muy importante para la gestión de los entornos virtuales. Esta acción requiere la clave de administrador (🗝️).
    - **Choose install location (📁):** Cuando se pregunte por la ruta de instalación escriba: `C:\apps\anaconda3`.
    - **Advanced installation options (📌):** Cuando se pregunte por las opciones avanzadas de instalación, seleccione la opción: ''**Anaconda as my default Python 3.x environment**'' (✔️). Esto habilita el entorno virtual base de Anaconda como el interprete por defecto del sistema operativo.
-
-
-     
+    
 3. Finalice el proceso de instalación.
    
 4. Verifique su instalación:
@@ -41,6 +39,7 @@
       (base) PS C:\Users\jferb> python --version
       Python 3.11.5
       ```
+<br/>
 
-- [Página principal](../../anaconda-install.md)
+[Página principal](../../README.md)
    
