@@ -12,7 +12,6 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 **Activación del entorno**
 
 - Ejecuta `Anaconda Powershell Prompt` (menu inicio windows &rarr;  Anaconda3 (64-bit) &rarr; Anaconda Powershell Prompt).
-
 - Una vez has creado el entorno virtual, activa el nuevo entorno:
 
     ```console
@@ -20,6 +19,7 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
    ```
 
 - Sustituye `nombre_entorno` con el nombre del entorno virtual que desea utilizar. por ejemplo `ai` para SEA (Semillero en Electrónica Aplicada).
+
 # Lista de librerias
 1. [NumPy](#NumPy)
 2. [Example2](#example2)
