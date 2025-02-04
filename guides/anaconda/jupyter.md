@@ -1,6 +1,11 @@
-# Jupyter y configuración de un entorno virtual como Kernel
+<div  align="center">
 
-Sigue estos pasos para instalar Jupyter Notebook y configurar tu entorno virtual para que funcione como un kernel en Jupyter.
+# Jupyter y configuración de un entorno virtual como Kernel
+Jupyter es una aplicación web que permite crear y compartir documentos interactivos con código en vivo, visualizaciones y texto explicativo. Es ampliamente utilizada en ciencia de datos, aprendizaje automático y análisis numérico. Sigue los pasos para instalar Jupyter Notebook y configurar tu entorno virtual para que funcione como un kernel en Jupyter.
+
+</div>
+
+<br/><br/>
 
 **Activación del entorno**
 
