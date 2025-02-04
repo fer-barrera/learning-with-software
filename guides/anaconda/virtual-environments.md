@@ -25,22 +25,20 @@ Un entorno virtual de Python es un espacio aislado que permite instalar paquetes
       ```
    
 2. Nombre del entorno virtual
-
-- Selecciona un nombre para tu entorno virtual. Asegúrate de evitar espacios en blanco, caracteres especiales, acentos u otros símbolos. 
-- Se recomienda utilizar un nombre simple y descriptivo. Por ejemplo, para el **SEA** (Semillero en Electrónica Aplicada), se sugiere:  `ai`.
-- Para listar todos los entornos virtuales existentes en tu sistema y evitar nombres duplicados, ejecute el siguiente comando en la consola:
+   - Selecciona un nombre para tu entorno virtual. Asegúrate de evitar espacios en blanco, caracteres especiales, acentos u otros símbolos. 
+   - Se recomienda utilizar un nombre simple y descriptivo. Por ejemplo, para el **SEA** (Semillero en Electrónica Aplicada), se sugiere:  `ai`.
+   - Para listar todos los entornos virtuales existentes en tu sistema y evitar nombres duplicados, ejecute el siguiente comando en la consola:
   
-   ```console
-   conda env list
-   ```
+      ```console
+      conda env list
+      ```
 
-**Creación del nuevo entorno virtual**
+3. Creación del nuevo entorno virtual
+   - Una vez has instalado `conda` y seleccionado el nombre de tu entorno virtual, puedes crearlo, para ello utiliza el comando `conda create`, como se muestra a continuación:
 
-- Una vez has instalado `conda` y seleccionado el nombre de tu entorno virtual, puedes crearlo, para ello utiliza el comando `conda create`, como se muestra a continuación:
-
-    ```console
-   conda create --name nombre_entorno python=3.8
-   ```
+      ```console
+      conda create --name nombre_entorno python=3.8
+      ```
 
 - Por ejemplo, para crear un entorno virtual para el Semillero en Electrónica Aplicada con Python `3.8.0` sustituye `nombre_entorno` con `ai`. Recuerda que puedes cambiar su nombre y la versión de Python preinstalada. 
 
