@@ -39,8 +39,10 @@ Un entorno virtual de Python es un espacio aislado que permite instalar paquetes
       ```console
       conda create --name nombre_entorno python=3.8
       ```
-
-- Por ejemplo, para crear un entorno virtual para el Semillero en Electrónica Aplicada con Python `3.8.0` sustituye `nombre_entorno` con `ai`. Recuerda que puedes cambiar su nombre y la versión de Python preinstalada. 
+   > [!CAUTION]
+   > Recuerda modificar el *nombre_entorno* por el sugerido.
+   > 
+   - Por ejemplo, para crear un entorno virtual para el Semillero en Electrónica Aplicada con Python `3.8.0` sustituye `nombre_entorno` con `ai`. Recuerda que puedes cambiar su nombre y la versión de Python preinstalada. 
 
 **Activación del entorno**
 
