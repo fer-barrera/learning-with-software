@@ -39,13 +39,13 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 <div  align="center">
 
 **Tabla 2.** Librerias
-| Cursos                    | 1. numpy | 2. matplotlib | 3. scikit-learn | 4. pandas | 5. seaborn |
-| :------------------------ | :---:    | :---:         | :---:           | :---:     | :---:      |
-| Visión por computadora    | ✓        | ✓             | ✓              |           |            |
-| Señales y sistemas        | ✓        | ✓             |                |            |            |
-| Calculo diferencial       | ✓        | ✓             |                |            |           |
-| SEA                       | ✓        | ✓             | ✓              |  ✓        | ✓         |
-| Servicios web             |          | ✓             |                |            |           |
+| Cursos                    | 1. numpy | 2. opencv | 2. matplotlib | 3. scikit-learn | 4. pandas | 5. seaborn |
+| :------------------------ | :---:    | :---:     | :---:         | :---:           | :---:     | :---:      |
+| Visión por computadora    | ✓        | ✓        | ✓             | ✓               |           |           |
+| Señales y sistemas        | ✓        |          | ✓             |                  |           |           |
+| Calculo diferencial       | ✓        |          | ✓             |                  |           |           |
+| SEA                       | ✓        |          | ✓             | ✓                | ✓        | ✓         |
+| Servicios web             |          |          |                |                  |           |           |
 
 </div>
 
