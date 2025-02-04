@@ -7,17 +7,16 @@
 
 <br/><br/>
 
-**Activación del entorno**
+## 📝 Guía de configuración
+
+1. Activación del entorno
 
 - Ejecuta `Anaconda Powershell Prompt` (menu inicio windows &rarr;  Anaconda3 (64-bit) &rarr; Anaconda Powershell Prompt).
-
 - Una vez has creado el entorno virtual, activa el nuevo entorno:
-
     ```console
    conda activate nombre_entorno
    ```
-
-- Sustituye `nombre_entorno` con el nombre del entorno virtual que desea utilizar. por ejemplo `ai` para SEA (Semillero en Electrónica Aplicada).
+- Sustituye `nombre_entorno` con el nombre del entorno virtual que desea utilizar. por ejemplo `ai` para el SEA (Semillero en Electrónica Aplicada).
   
 **Instala el paquete ipykernel**
 
