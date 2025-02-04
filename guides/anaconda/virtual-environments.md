@@ -40,7 +40,7 @@ Un entorno virtual de Python es un espacio aislado que permite instalar paquetes
       conda create --name nombre_entorno python=3.8
       ```
 
-      | :point_up:    | Remember to not forget! |
+      | :point_up:    | Recuerda modificar: *nombre_entorno* por el sugerido! |
       |---------------|:------------------------|
 
 > [!CAUTION]
