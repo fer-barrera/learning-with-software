@@ -6,6 +6,9 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 
 </div>
 
+> [!CAUTION]
+> Antes de instalar cualquier libreria o paquete recuerda **activar** el entorno virtual.
+
 # Lista de librerias
 1. [NumPy](#NumPy)
 2. [Example2](#example2)
