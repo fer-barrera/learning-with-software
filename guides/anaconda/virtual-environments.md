@@ -59,5 +59,9 @@ Por ejemplo, para crear un entorno virtual para el Semillero en Electrónica Apl
      (ia) PS C:\Users\jferb>
      ```
 
-> [!CAUTION]
+> [!TIP]
 > Recuerda **activar** el entorno antes de instalar una nueva libreria o paquete.
+
+<br/>
+
+[Página principal](../../README.md)
