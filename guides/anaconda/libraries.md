@@ -56,7 +56,7 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
   ```
   
 - Si no aparece ningún error y muestra una versión, ¡NumPy está instalada correctamente!
----
+
 <br/>
 
 ## Matplotlib
@@ -82,7 +82,6 @@ Una vez la instalación ha terminado, verifica si Matplotlib se instaló correct
   
 - Si no aparece ningún error y muestra una versión (por ejemplo, 3.x.x), Matplotlib está instalado correctamente.
 
----
 <br/>
 
 [Página principal](../../README.md)
