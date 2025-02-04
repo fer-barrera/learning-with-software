@@ -42,7 +42,7 @@
 4. Inicia Jupyter Notebook
 
     - Para ejecutar el servidor de Jupyter tiene dos opciones:
-        - Ejecutar la aplicación desde el menu inicio windows &rarr;  Anaconda3 (64-bit) &rarr; Jupiter Notebook.
+        - Ejecutar la aplicación desde el menu inicio windows &rarr;  Anaconda3 (64-bit) &rarr; :notebook: Jupiter Notebook.
         - Ó ejecutando el siguiente comando desde la consola:
 
            ```console
