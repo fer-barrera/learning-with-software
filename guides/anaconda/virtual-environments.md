@@ -43,7 +43,7 @@ Un entorno virtual de Python es un espacio aislado que permite instalar paquetes
 > [!CAUTION]
 > Recuerda modificar el *nombre_entorno* por el sugerido.
 
->> Por ejemplo, para crear un entorno virtual para el Semillero en Electrónica Aplicada con Python `3.8.0` sustituye `nombre_entorno` con `ai`. Recuerda que puedes cambiar su nombre y la versión de Python preinstalada. 
+   - Por ejemplo, para crear un entorno virtual para el Semillero en Electrónica Aplicada con Python `3.8.0` sustituye `nombre_entorno` con `ai`. Recuerda que puedes cambiar su nombre y la versión de Python preinstalada. 
 
 4. Activación del entorno
    - Una vez has creado el entorno virtual, **activa** el nuevo entorno:
