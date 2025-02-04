@@ -33,7 +33,7 @@ Un entorno virtual de Python es un espacio aislado que permite instalar paquetes
       conda env list
       ```
 
-3. Creación del nuevo entorno virtual
+3. Creación del nuevo entorno virtual (:earth_americas:)
    - Una vez has instalado `conda` y seleccionado el nombre de tu entorno virtual, puedes crearlo, para ello utiliza el comando `conda create`, como se muestra a continuación:
 
       ```console
