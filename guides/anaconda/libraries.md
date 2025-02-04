@@ -2,7 +2,7 @@
     
 # Librerias para Python
 
-Sigue estos pasos para instalar las librerias de Python.
+Sigue los pasos para instalar las diversas librerias de Python requeridas.
 
 </div>
 
