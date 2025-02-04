@@ -10,13 +10,14 @@ Un entorno virtual de Python es un espacio aislado que permite instalar paquetes
 
 ## 📝 Guía para crear un entorno virtual
 
-**Verifica si conda esta instalado correctamente**
-- Ejecuta `Anaconda Powershell Prompt` (menu inicio windows &rarr;  Anaconda3 (64-bit) &rarr; Anaconda Powershell Prompt).
-- Digita conda -V en la consola.
+1 Verifica si conda esta instalado correctamente
+
+  - Ejecuta `Anaconda Powershell Prompt` (menu inicio windows &rarr;  Anaconda3 (64-bit) &rarr; Anaconda Powershell Prompt).
+  - Digita conda -V en la consola.
   
-   ```console
-   conda -V
-   ```
+    ```console
+    conda -V
+    ```
    
 - Si `conda` está instalado correctamente en su sistema, usted debera observar una salida similar a:
   
