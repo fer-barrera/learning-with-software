@@ -58,6 +58,7 @@ Un entorno virtual de Python es un espacio aislado que permite instalar paquetes
      (base) PS C:\Users\jferb> conda activate ai
      (ia) PS C:\Users\jferb>
      ```
+<br/>
 
 > [!TIP]
 > Recuerda **activar** el entorno antes de instalar una nueva libreria o paquete.
