@@ -9,8 +9,8 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 > [!CAUTION]
 > Antes de instalar cualquier libreria o paquete recuerda **activar** el entorno virtual.
 
-| :zap:         | **Activación del entorno**       |
-|---------------|:------------------------|
+| :zap: | **Activación del entorno** |
+|-------|:---------------------------|
 
 - Ejecuta `Anaconda Powershell Prompt` (menu inicio windows &rarr;  Anaconda3 (64-bit) &rarr; Anaconda Powershell Prompt).
 - Una vez has creado el entorno virtual, activa el nuevo entorno:
