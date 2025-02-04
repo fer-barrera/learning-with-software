@@ -1,6 +1,10 @@
+<div  align="center">
+    
 # Librerias para Python
 
 Sigue estos pasos para instalar las librerias de Python.
+
+</div>
 
 **Activación del entorno**
 
@@ -62,3 +66,6 @@ Una vez que la instalación haya terminado, verifica si Matplotlib se instaló c
   
 - Si no aparece ningún error y muestra una versión (por ejemplo, 3.x.x), Matplotlib está instalado correctamente.
 
+<br/>
+
+[Página principal](../../README.md)
