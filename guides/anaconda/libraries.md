@@ -6,8 +6,13 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 
 </div>
 
+<br/>
+<br/>
+
 > [!CAUTION]
 > Antes de instalar cualquier libreria o paquete recuerda **activar** el entorno virtual.
+
+<br/>
 
 | :zap: | **Activación del entorno** |
 |-------|:---------------------------|
@@ -20,6 +25,9 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
    ```
 
 - Sustituye `nombre_entorno` con el nombre del entorno virtual que desea utilizar. por ejemplo `ai` para SEA (Semillero en Electrónica Aplicada).
+
+<br/>
+<br/>
 
 # Lista de librerias
 1. [NumPy](#NumPy)
