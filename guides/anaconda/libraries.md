@@ -6,6 +6,10 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 
 </div>
 
+# Lista de librerias
+1. [NumPy](#NumPy)
+2. [Example2](#example2)
+
 **Activación del entorno**
 
 - Ejecuta `Anaconda Powershell Prompt` (menu inicio windows &rarr;  Anaconda3 (64-bit) &rarr; Anaconda Powershell Prompt).
@@ -18,7 +22,7 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 
 - Sustituye `nombre_entorno` con el nombre del entorno virtual que desea utilizar. por ejemplo `ai` para SEA (Semillero en Electrónica Aplicada).
   
-## Instala el paquete NumPy
+## NumPy
 
 - En la consola escribe el siguiente comando:
 
