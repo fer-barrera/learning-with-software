@@ -69,9 +69,9 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
 
 **Verificar la instalación**
 
-Una vez que la instalación haya terminado, verifica si Matplotlib se instaló correctamente:
+Una vez la instalación ha terminado, verifica si Matplotlib se instaló correctamente:
 
-- Escribe `python` en la terminal para abrir el intérprete de Python. Luego, escribe este código para probar:
+- Escribe `python` en la terminal para abrir el intérprete de Python. Luego, escribe el código de prueba:
 
   ```console
   import matplotlib.pyplot as plt
