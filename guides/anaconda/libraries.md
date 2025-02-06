@@ -30,7 +30,8 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 
 # Lista de librerias
 1. [NumPy](#NumPy)
-2. [Matplotlib](#Matplotlib)
+2. [OpenCV](#OpenCV)
+3. [Matplotlib](#Matplotlib)
 
 <br/>
   
@@ -59,7 +60,7 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
 
 <br/>
 
-## opencv
+## OpenCV
 
 - En la consola escribe el siguiente comando:
 
