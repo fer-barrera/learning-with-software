@@ -56,7 +56,7 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
   print(np.__version__)
   ```
   
-- Si no aparece ningún error y muestra una versión, ¡NumPy está instalada correctamente!
+- Si no aparece ningún error y muestra una versión, ¡NumPy fue instalado correctamente!
 
 <br/>
 
@@ -80,7 +80,7 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
   print(cv2.__version__)
   ```
   
-- Si no aparece ningún error y muestra una versión, ¡OpenCV y sus paquetes extras estan instalado correctamente!
+- Si no aparece ningún error y muestra una versión, ¡OpenCV fue instalado correctamente!
 
 <br/>
 
@@ -105,7 +105,7 @@ Una vez la instalación ha terminado, verifica si Matplotlib se instaló correct
   print(plt.__version__)
   ```
   
-- Si no aparece ningún error y muestra una versión (por ejemplo, 3.x.x), Matplotlib está instalado correctamente.
+- Si no aparece ningún error y muestra una versión (por ejemplo, 3.x.x), Matplotlib fue instalado correctamente.
 
 <br/>
 
