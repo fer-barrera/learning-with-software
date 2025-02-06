@@ -59,6 +59,30 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
 
 <br/>
 
+## opencv
+
+- En la consola escribe el siguiente comando:
+
+  ```console
+  conda install -c conda-forge opencv-contrib-python
+  ```
+
+- Confirma la instalación escribiendo [y] cuando se solicite.
+
+**Verificar la instalación**
+
+Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
+- Escribe `python` en la terminal para abrir el intérprete de Python. Luego escribe:
+
+  ```console
+  import cv2
+  print(cv2.__version__)
+  ```
+  
+- Si no aparece ningún error y muestra una versión, ¡OpenCV y sus paquetes extras estan instalado correctamente!
+
+<br/>
+
 ## Matplotlib
 
 - Escribe el siguiente comando en la terminal para instalar Matplotlib usando conda:
