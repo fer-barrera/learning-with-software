@@ -25,8 +25,21 @@ Un entorno virtual de Python es un espacio aislado que permite instalar paquetes
       ```
    
 2. Nombre del entorno virtual
-   - Selecciona un nombre para tu entorno virtual. Asegúrate de evitar espacios en blanco, caracteres especiales, acentos u otros símbolos. 
-   - Se recomienda utilizar un nombre simple y descriptivo. Por ejemplo, para el **SEA** (Semillero en Electrónica Aplicada), se sugiere:  `ai`.
+   - Selecciona un nombre adecuado para tu entorno virtual. Asegúrate de evitar espacios en blanco, caracteres especiales, acentos u otros símbolos. 
+   - Se recomienda utilizar un nombre simple y descriptivo.
+
+<div  align="center">
+  
+**Tabla 1.** Lista de aplicaciones
+| Aplicaciones                                                                    | Visión por computadora |
+| :------------------------------------------------------------------------------ | :--------------------: |
+| 1. [Anaconda](guides/anaconda/anaconda-install.md)                              | ✓                      |
+| 2. [Configuración del Entorno virtual](guides/anaconda/virtual-environments.md) | ✓                      |
+| 3. [Jupyter](guides/anaconda/jupyter.md)                                        | ✓                      |
+| 4. [Librerias](guides/anaconda/libraries.md)                                    | ✓                      |
+
+</div>
+  
    - Para listar todos los entornos virtuales existentes en tu sistema y evitar nombres duplicados, ejecute el siguiente comando en la consola:
   
       ```console
