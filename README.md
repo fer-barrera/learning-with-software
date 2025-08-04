@@ -8,10 +8,10 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 
 <br/><br/>
 
-## 🌐 Guías de instalación de aplicaciones
+## 🌐 Guías de instalación y configuración
 
   1. **Observa la Tabla 1**.  
-  2. **Instala todas las aplicaciones marcadas con "✓" para tu curso:** Sigue el orden indicado, ignora aquellas sin símbolo.
+  2. **Instala todas las aplicaciones indicadas con el simbolo "✓" para tu curso:** Sigue el orden indicado, ignora aquellas sin símbolo.
   3. **Recuerda siguir el orden indicado:** De arriba abajo, conforme al número asignado a cada aplicación.
 
 <div  align="center">
@@ -48,15 +48,6 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 </div>
 
 > **Nota:** Sigue el orden indicado de izquierda a derecha para evitar errores durante la instalación.
-
-<br/>
-
-## 📋 Guías de instalación
-
-- [Anaconda](guides/anaconda/anaconda-install.md)
-- [Entorno virtual](guides/anaconda/virtual-environments.md)
-- [Jupyter](guides/anaconda/jupyter.md)
-- [Librerias](guides/anaconda/libraries.md)
 
 <br/><br/>
 
