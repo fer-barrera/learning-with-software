@@ -22,7 +22,7 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 | :------------------------------------------------------------------------------ | :--------------------: |
 | 1. [Anaconda](guides/anaconda/anaconda-install.md)                              | ✓                      |
 | 2. [Configuración del Entorno virtual](guides/anaconda/virtual-environments.md) | ✓                      |
-| 3. [Jupyter](guides/anaconda/jupyter.md) Calculo diferencial                    | ✓                      |
+| 3. [Jupyter](guides/anaconda/jupyter.md)                                        | ✓                      |
 | 4. [Librerias](guides/anaconda/libraries.md)                                    | ✓                      |
 
 </div>
