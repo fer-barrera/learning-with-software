@@ -8,15 +8,15 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 
 <br/><br/>
 
-## 🌐 Instalación de aplicaciones
+## 🌐 Guías de instalación de aplicaciones
 
   1. **Observa la Tabla 1**.  
-  2. **Instala tolas las aplicaciones marcadas con "✓":** Ignora aquellas sin símbolo.
-  3. **Sigue el orden de las columnas:** De izquierda a derecha, conforme al número asignado a cada columna.
+  2. **Instala todas las aplicaciones marcadas con "✓":** En el orden indicado, ignora aquellas sin símbolo.
+  3. **Sigue el orden indicado:** De arriba a bajo, conforme al número asignado a cada aplicación.
 
 <div  align="center">
   
-**Tabla 1.** Aplicaciones
+**Tabla 1.** Lista de aplicaciones
 | Aplicaciones                                                                    | Visión por computadora |
 | :------------------------------------------------------------------------------ | :--------------------: |
 | 1. [Anaconda](guides/anaconda/anaconda-install.md)                              | ✓                      |
