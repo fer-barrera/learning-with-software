@@ -18,6 +18,7 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
   
 **Tabla 1.** Aplicaciones
 |  x                                                                              | Cursos                 |
+| :------------------------------------------------------------------------------ | :--------------------: |
 | Aplicaciones                                                                    | Visión por computadora |
 | :------------------------------------------------------------------------------ | :--------------------: |
 | 1. [Anaconda](guides/anaconda/anaconda-install.md)                              | ✓                      |
