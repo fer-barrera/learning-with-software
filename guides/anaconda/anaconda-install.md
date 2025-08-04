@@ -27,7 +27,7 @@
    
 4. Verifique su instalación:
    - En el menu de inicio de windows debera observar una carpeta con el nombre Anaconda3 (64/32-bits), y en su interior aplicaciones como: Anaconda Navigator, Anaconda Prompt, Anaconda Powershell Prompt, entre otras.
-   - Ejecute Anaconda Powershell Prompt (menu inicio windows &rarr;  Anaconda3 (64-bit) &rarr; Jupiter Notebook) y luego escriba:
+   - Ejecute Anaconda Powershell Prompt (menu inicio windows &rarr;  Anaconda3 (64-bit) &rarr; Anaconda Powershell Prompt) y luego escriba:
      
       ```console
       python --version
@@ -42,4 +42,3 @@
 <br/>
 
 [Página principal](../../README.md)
-   
