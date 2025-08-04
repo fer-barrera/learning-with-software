@@ -11,8 +11,8 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 ## 🌐 Guías de instalación de aplicaciones
 
   1. **Observa la Tabla 1**.  
-  2. **Instala todas las aplicaciones marcadas con "✓":** En el orden indicado, ignora aquellas sin símbolo.
-  3. **Sigue el orden indicado:** De arriba a bajo, conforme al número asignado a cada aplicación.
+  2. **Instala todas las aplicaciones marcadas con "✓" para tu curso:** Sigue el orden indicado, ignora aquellas sin símbolo.
+  3. **Recuerda siguir el orden indicado:** De arriba abajo, conforme al número asignado a cada aplicación.
 
 <div  align="center">
   
