@@ -40,7 +40,9 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 | Visión por computadora    | ✓                  | ✓                   | ✓                            | ✓                |           |           |
 
 </div>
+
 <div  align="center">
+    
 > **Nota:** Sigue el orden indicado de izquierda a derecha para evitar errores durante la instalación.
 
 <br/><br/>
