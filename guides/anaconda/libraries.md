@@ -83,6 +83,7 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
   >>> exit()
   (base) PS C:\Users\jferb>
   ```
+[librerias](#tb-libs)
 
 <br/>
 
