@@ -40,7 +40,7 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 - En la consola escribe el siguiente comando:
 
   ```console
-  conda install numpy
+  conda install conda-forge::numpy
   ```
 
 - Confirma la instalación escribiendo [y] cuando se solicite.
