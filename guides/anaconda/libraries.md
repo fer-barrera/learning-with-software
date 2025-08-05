@@ -57,7 +57,7 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
   exit()
   ```
   
-- Si no aparece ningún error y muestra la versión, ¡NumPy fue instalado correctamente! deberias observar algo como:
+- Si no aparece ningún error ¡NumPy fue instalado correctamente! y deberias observar algo como:
 
   ```console
   (base) PS C:\Users\jferb> python
