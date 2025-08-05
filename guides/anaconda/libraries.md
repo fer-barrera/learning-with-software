@@ -44,7 +44,7 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
   ```
 
 - Confirma la instalación escribiendo [y] cuando se solicite.
-- Note que `NumPy` se instala automáticamente con muchos paquetes científicos en Anaconda, como Jupyter Notebook y SciPy.
+- Note que `NumPy` se instala automáticamente junto con muchos paquetes científicos.
 
 **Verificar la instalación**
 
@@ -57,7 +57,18 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
   exit()
   ```
   
-- Si no aparece ningún error y muestra una versión, ¡NumPy fue instalado correctamente!
+- Si no aparece ningún error y muestra la versión, ¡NumPy fue instalado correctamente! deberias observar algo como:
+
+  ```console
+  (base) PS C:\Users\jferb> python
+  Python 3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)] on win32
+  Type "help", "copyright", "credits" or "license" for more information.
+  >>> import numpy as np
+  >>> print(np.__version__)
+  1.26.4
+  >>> exit()
+  (base) PS C:\Users\jferb>
+  ```
 
 <br/>
 
