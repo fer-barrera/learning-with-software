@@ -45,7 +45,7 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 
 </div>
     
-> **Nota:** Sigue el orden indicado de izquierda a derecha para evitar errores durante la instalación.
+> **Nota:** Sigue el orden para evitar errores durante la instalación.
 
 <br/>
   
