@@ -54,6 +54,7 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
   ```console
   import numpy as np
   print(np.__version__)
+  exit()
   ```
   
 - Si no aparece ningún error y muestra una versión, ¡NumPy fue instalado correctamente!
