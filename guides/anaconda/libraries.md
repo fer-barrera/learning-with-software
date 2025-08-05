@@ -35,7 +35,7 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
   3. **Sigue el orden de las columnas:** De izquierda a derecha, conforme al número asignado a cada columna.
 
 <div  align="center">
-
+<a name="tb-lib"></a>
 **Tabla 1.** Librerias
 | Cursos                    | 1. [NumPy](#NumPy) | 2. [OpenCV](#OpenCV) | 2. [Matplotlib](#Matplotlib) | 3. scikit-learn | 4. pandas | 5. seaborn |
 | :------------------------ | :---:              | :---:                | :---:                        | :---:            | :---:     | :---:     |
