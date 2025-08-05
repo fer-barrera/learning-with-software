@@ -31,7 +31,7 @@
         ipython kernel install --user --name=nombre_entorno-kernel
         ```
 
-    - En el anterior comando sustituye nombre_entorno-kernel por `ai-kernel` para el Semillero en Electrónica Aplicada (SEA). Si fue ejecutado correctamente, deberas observar una salida similar a:
+    - En el anterior comando sustituye nombre_entorno-kernel por `cv-kernel` para el curso de visión por computadora. Si fue ejecutado correctamente, deberas observar una salida similar a:
 
         ```console
         (ai) PS C:\Users\jferb> ipython kernel install --user --name=ai-kernel
