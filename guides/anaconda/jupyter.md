@@ -34,8 +34,8 @@
     - En el anterior comando sustituye nombre_entorno-kernel por `cv-kernel` para el curso de visión por computadora. Si fue ejecutado correctamente, deberas observar una salida similar a:
 
         ```console
-        (ai) PS C:\Users\jferb> ipython kernel install --user --name=ai-kernel
-        Installed kernelspec ai-kernel in C:\Users\jferb\AppData\Roaming\jupyter\kernels\ai-kernel
+        (ai) PS C:\Users\jferb> ipython kernel install --user --name=cv-kernel
+        Installed kernelspec cv-kernel in C:\Users\jferb\AppData\Roaming\jupyter\kernels\cv-kernel
         (ai) PS C:\Users\jferb>
         ```
 
