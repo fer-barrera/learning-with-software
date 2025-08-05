@@ -116,6 +116,7 @@ Una vez la instalación ha terminado, verifica si Matplotlib se instaló correct
   ```console
   import matplotlib.pyplot as plt
   print(plt.__version__)
+  exit()
   ```
   
 - Si no aparece ningún error y muestra una versión (por ejemplo, 3.x.x), Matplotlib fue instalado correctamente.
