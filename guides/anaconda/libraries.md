@@ -141,4 +141,5 @@ Una vez la instalación ha terminado, verifica si Matplotlib se instaló correct
 
 <br/>
 [librerias](#tb-libs)
+
 [Página principal](../../README.md)
