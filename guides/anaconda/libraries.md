@@ -28,6 +28,8 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 
 <br/>
 
+<a name="tb-libs"></a>
+
 ## 📚 Instalación de librerias
 
   1. **Localiza tu curso:** Revisa la Tabla 1, columna **"Cursos"**.  
@@ -44,8 +46,6 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 </div>
     
 > **Nota:** Sigue el orden indicado de izquierda a derecha para evitar errores durante la instalación.
-
-<a name="tb-libs"></a>
 
 <br/>
   
@@ -83,6 +83,7 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
   >>> exit()
   (base) PS C:\Users\jferb>
   ```
+
 [librerias](#tb-libs)
 
 <br/>
@@ -109,6 +110,8 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
   ```
   
 - Si no aparece ningún error e implime la versión entonces ¡OpenCV fue instalado correctamente!
+
+[librerias](#tb-libs)
 
 <br/>
 
@@ -137,5 +140,5 @@ Una vez la instalación ha terminado, verifica si Matplotlib se instaló correct
 - Si no aparece ningún error y muestra una versión (por ejemplo, 3.x.x), Matplotlib fue instalado correctamente.
 
 <br/>
-
+[librerias](#tb-libs)
 [Página principal](../../README.md)
