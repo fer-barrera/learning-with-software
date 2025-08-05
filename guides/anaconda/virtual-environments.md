@@ -66,8 +66,8 @@ Un entorno virtual de Python es un espacio aislado que permite instalar paquetes
    - Si el comando se ejecutó correctamente, deberías observar algo similar a:
 
      ```console
-     (base) PS C:\Users\jferb> conda activate ai
-     (ia) PS C:\Users\jferb>
+     (base) PS C:\Users\jferb> conda activate cv
+     (cv) PS C:\Users\jferb>
      ```
 <br/>
 
