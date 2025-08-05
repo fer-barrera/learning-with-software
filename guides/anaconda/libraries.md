@@ -140,6 +140,7 @@ Una vez la instalación ha terminado, verifica si Matplotlib se instaló correct
 - Si no aparece ningún error y muestra una versión (por ejemplo, 3.x.x), Matplotlib fue instalado correctamente.
 
 <br/>
+
 [librerias](#tb-libs)
 
 [Página principal](../../README.md)
