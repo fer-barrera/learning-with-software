@@ -37,7 +37,7 @@ Un entorno virtual de Python es un espacio aislado que permite instalar paquetes
 
 </div>
   
-   - Para listar todos los entornos virtuales existentes en tu sistema y evitar nombres duplicados, ejecute el siguiente comando en la consola:
+   - Para evitar entornos virtuales duplicados o en uso, lista todos los entornos virtuales existentes en tu sistema. Ejecuta el siguiente comando en la consola:
   
       ```console
       conda env list
