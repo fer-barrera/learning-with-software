@@ -24,7 +24,7 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
    conda activate nombre_entorno
    ```
 
-- Sustituye `nombre_entorno` con el nombre del entorno virtual que desea utilizar. por ejemplo `ai` para SEA (Semillero en Electrónica Aplicada).
+- Sustituye `nombre_entorno` con el nombre del entorno virtual que desea utilizar. por ejemplo `cv` para curso de visón por computadora.
 
 <br/>
 
