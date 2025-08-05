@@ -45,6 +45,8 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
     
 > **Nota:** Sigue el orden indicado de izquierda a derecha para evitar errores durante la instalación.
 
+<a name="tb-libs"></a>
+
 <br/><br/>
   
 ## NumPy
