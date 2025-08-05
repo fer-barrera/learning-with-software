@@ -28,27 +28,4 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 
 <br/>
 
-## 📚 Instalación de librerias
-
-  1. **Localiza tu curso:** Revisa la Tabla 2, columna **"Cursos"**.  
-  2. **Instala las librerias marcadas con "✓":** Ignorando aquellas sin símbolo.
-  3. **Sigue el orden de las columnas:** De izquierda a derecha, conforme al número asignado a cada columna.
-
-<div  align="center">
-
-**Tabla 2.** Librerias
-| Cursos                    | 1. numpy | 2. opencv | 2. matplotlib | 3. scikit-learn | 4. pandas | 5. seaborn |
-| :------------------------ | :---:    | :---:     | :---:         | :---:           | :---:     | :---:      |
-| Visión por computadora    | ✓        | ✓        | ✓             | ✓               |           |           |
-| Señales y sistemas        | ✓        |          | ✓             |                  |           |           |
-| Calculo diferencial       | ✓        |          | ✓             |                  |           |           |
-| SEA                       | ✓        |          | ✓             | ✓                | ✓        | ✓         |
-| Servicios web             |          |          |                |                  |           |           |
-
-</div>
-
-> **Nota:** Sigue el orden indicado de izquierda a derecha para evitar errores durante la instalación.
-
-<br/><br/>
-
 [Arriba](#top)
