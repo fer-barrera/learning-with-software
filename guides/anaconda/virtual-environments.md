@@ -30,13 +30,10 @@ Un entorno virtual de Python es un espacio aislado que permite instalar paquetes
 
 <div  align="center">
   
-**Tabla 1.** Lista de aplicaciones
-| Aplicaciones                                                                    | Visión por computadora |
-| :------------------------------------------------------------------------------ | :--------------------: |
-| 1. [Anaconda](guides/anaconda/anaconda-install.md)                              | ✓                      |
-| 2. [Configuración del Entorno virtual](guides/anaconda/virtual-environments.md) | ✓                      |
-| 3. [Jupyter](guides/anaconda/jupyter.md)                                        | ✓                      |
-| 4. [Librerias](guides/anaconda/libraries.md)                                    | ✓                      |
+**Tabla 1.** Nombre de entornos
+| Aplicaciones                                     | Nombre sugerido        |
+| :----------------------------------------------- | :--------------------: |
+| Visión por computadora                           | cv                      |
 
 </div>
   
