@@ -102,7 +102,7 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
 - Escribe el siguiente comando en la terminal para instalar Matplotlib usando conda:
 
   ```console
-  conda install matplotlib
+  conda install conda-forge::matplotlib
   ```
 
 - Cuando aparezca un mensaje de confirmación, escribe [y] y presiona `Enter` para continuar.
