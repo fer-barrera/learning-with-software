@@ -78,6 +78,7 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
   ```console
   import cv2
   print(cv2.__version__)
+  exit()
   ```
   
 - Si no aparece ningún error y muestra una versión, ¡OpenCV fue instalado correctamente!
