@@ -47,7 +47,7 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 
 <a name="tb-libs"></a>
 
-<br/><br/>
+<br/>
   
 ## NumPy
 
