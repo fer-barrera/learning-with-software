@@ -93,7 +93,7 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
   exit()
   ```
   
-- Si no aparece ningún error y muestra una versión, ¡OpenCV fue instalado correctamente!
+- Si no aparece ningún error e implime la versión entonces ¡OpenCV fue instalado correctamente!
 
 <br/>
 
