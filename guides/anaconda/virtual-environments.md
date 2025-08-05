@@ -24,7 +24,7 @@ Un entorno virtual de Python es un espacio aislado que permite instalar paquetes
       conda 23.7.4
       ```
    
-2. Nombre del entorno virtual
+2. Selección del nombre del entorno virtual
    - Selecciona un nombre adecuado para tu entorno virtual. Asegúrate de evitar espacios en blanco, caracteres especiales, acentos u otros símbolos. 
    - Se recomienda utilizar un nombre simple y descriptivo.
 
