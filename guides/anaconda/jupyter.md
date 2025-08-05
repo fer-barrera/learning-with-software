@@ -15,7 +15,7 @@
         ```console
        conda activate nombre_entorno
        ```
-    - Sustituye `nombre_entorno` con el nombre del entorno virtual que desea utilizar. por ejemplo `ai` para el SEA (Semillero en Electrónica Aplicada).
+    - Sustituye `nombre_entorno` con el nombre del entorno virtual que desea utilizar. por ejemplo `cv` para el curso de visión por compuatadora.
   
 2. Instala el paquete **ipykernel**
     - Agrega el soporte de kernel para el entorno virtual activado, en la consola digita el siguiente comando:
