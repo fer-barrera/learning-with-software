@@ -17,7 +17,7 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 <div  align="center">
   
 **Tabla 1.** Listado de aplicaciones y procedimientos
-| Aplicaciones                                                                    | Visión por computadora |
+| Aplicaciones y procedimientos                                                   | Visión por computadora |
 | :------------------------------------------------------------------------------ | :--------------------: |
 | 1. [Anaconda](guides/anaconda/anaconda-install.md)                              | ✓                      |
 | 2. [Configuración del Entorno virtual](guides/anaconda/virtual-environments.md) | ✓                      |
