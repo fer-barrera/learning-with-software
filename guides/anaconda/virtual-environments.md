@@ -17,7 +17,7 @@ Un entorno virtual de Python es un espacio aislado que permite instalar paquetes
        ```console
        conda -V
        ```
-   - Si `conda` está instalado correctamente en su sistema, usted deberá observar una salida similar a:
+   - Si `conda` fue instalado correctamente en su sistema, usted deberá observar una salida similar a:
      
       ```console
       (base) PS C:\Users\jferb> conda -V
