@@ -26,7 +26,7 @@ Un entorno virtual de Python es un espacio aislado que permite instalar paquetes
    
 2. Selección del nombre del entorno virtual
    - Selecciona un nombre adecuado para tu entorno virtual. Asegúrate de evitar espacios en blanco, caracteres especiales, acentos u otros símbolos. 
-   - Se recomienda utilizar un nombre corto, simple y descriptivo.
+   - Se recomienda utilizar un nombre corto, simple y descriptivo (vea Tabla 1).
 
 <div  align="center">
   
