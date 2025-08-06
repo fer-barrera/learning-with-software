@@ -9,7 +9,7 @@
 <br/><br/>
 
 > [!CAUTION]
-> Antes de realizar algún punto de la guía, primero lea las instrucciones asociadas.
+> Antes de realizar alguna acción, primero lea las instrucciones asociadas.
 
 <br/>
 
