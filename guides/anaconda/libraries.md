@@ -95,6 +95,7 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
   ```console
   conda install conda-forge::opencv
   ```
+<!--- pip install opencv-contrib-python --->
 
 - Confirma la instalación escribiendo [y] cuando se solicite.
 
