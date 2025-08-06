@@ -60,7 +60,7 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 - Confirma la instalación escribiendo [y] cuando se solicite.
 - Note que `NumPy` se instala automáticamente junto con muchos paquetes científicos.
 
-**Verificar la instalación**
+**Verificar la instalación (opcional)**
 
 Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
 - Escribe `python` en la terminal para abrir el intérprete de Python. Luego escribe:
@@ -98,7 +98,7 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
 
 - Confirma la instalación escribiendo [y] cuando se solicite.
 
-**Verificar la instalación**
+**Verificar la instalación (opcional)**
 
 Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
 - Escribe `python` en la terminal para abrir el intérprete de Python. Luego escribe:
@@ -125,7 +125,7 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
 
 - Cuando aparezca un mensaje de confirmación, escribe [y] y presiona `Enter` para continuar.
 
-**Verificar la instalación**
+**Verificar la instalación (opcional)**
 
 Una vez la instalación ha terminado, verifica si Matplotlib se instaló correctamente:
 
