@@ -4,7 +4,7 @@ Esta carpeta contiene una colección de guías paso a paso para instalar softwar
 
 ## Contenido de las guías
 
-- [Conda](conda/conda-install.md): Guía para instalar y configurar Conda, un gestor de entornos y paquetes.
+- [Conda](anaconda/anaconda-install.md): Guía para instalar y configurar Conda, un gestor de entornos y paquetes.
 
 ## Cómo usar estas guías
 
