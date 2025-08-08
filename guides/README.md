@@ -5,10 +5,6 @@ Esta carpeta contiene una colección de guías paso a paso para instalar softwar
 ## Contenido de las guías
 
 - [Conda](conda/conda-install.md): Guía para instalar y configurar Conda, un gestor de entornos y paquetes.
-- [Python](python/python-install.md): Instrucciones para instalar Python y configurar el entorno.
-- [MATLAB](matlab/matlab-install.md): Pasos para la instalación de MATLAB y configuración inicial.
-- [Visual Studio Code](vscode/vscode-setup.md): Instalación y configuración de este editor de código.
-- Otras guías estarán disponibles en el futuro según las necesidades del programa.
 
 ## Cómo usar estas guías
 
@@ -19,7 +15,7 @@ Esta carpeta contiene una colección de guías paso a paso para instalar softwar
 ## Contribuciones
 
 Si deseas contribuir a estas guías, puedes:
-- Proponer nuevas herramientas para incluir.
+- Proponer nuevas herramientas.
 - Reportar problemas o errores en las guías existentes.
 - Enviar correcciones o mejoras mediante pull requests.
 
