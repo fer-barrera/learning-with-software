@@ -12,7 +12,7 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas de
 
   1. **Observa la Tabla 1**.  
   2. **Instala todas las aplicaciones indicadas con el simbolo "✓" para tu curso:* (Sigue el orden indicado e ignora aquellas no marcadas).
-  3. **Recuerda siguir el orden** (De arriba abajo y conforme a la numeración).
+  3. **Recuerda seguir el orden** (De arriba abajo y conforme a la numeración).
 
 <div  align="center">
   
