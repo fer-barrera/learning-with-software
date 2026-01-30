@@ -54,7 +54,7 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 - En la consola escribe el siguiente comando:
 
   ```console
-  conda install conda-forge::numpy
+  conda install main::numpy
   ```
 
 - Confirma la instalación escribiendo [y] cuando se solicite.
@@ -93,9 +93,8 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
 - En la consola escribe el siguiente comando:
 
   ```console
-  conda install conda-forge::opencv
+  conda install main::opencv
   ```
-<!--- pip install opencv-contrib-python --->
 
 - Confirma la instalación escribiendo [y] cuando se solicite.
 
@@ -121,7 +120,7 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
 - Escribe el siguiente comando en la terminal para instalar Matplotlib usando conda:
 
   ```console
-  conda install conda-forge::matplotlib
+  conda install main::matplotlib
   ```
 
 - Cuando aparezca un mensaje de confirmación, escribe [y] y presiona `Enter` para continuar.
