@@ -39,7 +39,7 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 <div  align="center">
     
 **Tabla 1.** Librerias
-| Cursos                    | 1. [NumPy](#NumPy) | 2. [OpenCV](#OpenCV) | 2. [Matplotlib](#Matplotlib) | 3. scikit-learn | 7. sympy |
+| Cursos                    | 1. [NumPy](#NumPy) | 2. [OpenCV](#OpenCV) | 2. [Matplotlib](#Matplotlib) | 3. [Scikit-learn](Scikit-learn) | 7. sympy |
 | :------------------------ | :---:              | :---:                | :---:                        | :---:           | :---:    |
 | Visión por computadora    | ✓                  | ✓                   | ✓                            | ✓              |           |
 | Señales y sistemas        | ✓                  |                     | ✓                            |                 | ✓        |
@@ -62,7 +62,8 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 
 **Verificar la instalación (opcional)**
 
-Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
+Una vez instalada la libreria, puedes verificar si esta fue instalada correctamente:
+
 - Escribe el siguiente comando en la terminal:
 
   ```console
@@ -151,7 +152,7 @@ Una vez la instalación ha terminado, verifica si scikit-learn se instaló corre
      python -c "import sklearn; sklearn.show_versions()"
   ```
   
-- Si no aparece ningún error y muestra la versión y otros datos de sus dependencias (blas u openmp) la libreria fue correctamente instalado.
+- Si no aparece ningún error y muestra la versión junto otros datos, como por ejemplo: sus dependencias, o información de blas u openmp, la libreria fue instalada correctamente.
 
 <br/>
 
