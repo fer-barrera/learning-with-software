@@ -41,7 +41,7 @@
       ```
 <br/>
 
-## Fix “Command Not Found” (Windows)
+## :hammer_and_wrench: Fix “Command Not Found” (Windows)
 
 Si la instalación de Anaconda termina correctamente pero al ejecutar `conda` en la terminal aparece que el comando no existe, agregue manualmente las carpetas de Anaconda a la variable de entorno **PATH**.
 
