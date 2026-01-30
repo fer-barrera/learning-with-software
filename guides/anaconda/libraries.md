@@ -63,7 +63,7 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 **Verificar la instalación (opcional)**
 
 Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
-- Escribe en la terminal el siguiente comando:
+- Escribe el siguiente comando en la terminal:
 
   ```console
   python -c "import numpy as np; print(np.__version__)"
@@ -93,8 +93,9 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
 
 **Verificar la instalación (opcional)**
 
-Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
-- Escribe `python` en la terminal para abrir el intérprete de Python. Luego escribe:
+Una vez instalada la libreria, puedes verificar si esta fue instalada correctamente:
+
+- Escribe el siguiente comando en la terminal:
 
   ```console
   python -c "import cv2; print(cv2.__version__)"
@@ -120,7 +121,7 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
 
 Una vez la instalación ha terminado, verifica si Matplotlib se instaló correctamente:
 
-- Escribe `python` en la terminal para abrir el intérprete de Python. Luego, escribe el código de prueba:
+- Escribe el siguiente comando en la terminal:
 
   ```console
   python -c "import matplotlib as plt; print(plt.__version__)"
@@ -144,13 +145,13 @@ Una vez la instalación ha terminado, verifica si Matplotlib se instaló correct
 
 Una vez la instalación ha terminado, verifica si scikit-learn se instaló correctamente:
 
-- Escribe `python` en la terminal para abrir el intérprete de Python. Luego, escribe el código de prueba:
+- Escribe el siguiente comando en la terminal:
 
   ```console
      python -c "import sklearn; sklearn.show_versions()"
   ```
   
-- Si no aparece ningún error y muestra una versión (por ejemplo, 3.x.x), Matplotlib fue instalado correctamente.
+- Si no aparece ningún error y muestra la versión y otros datos de sus dependencias (blas u openmp) la libreria fue correctamente instalado.
 
 <br/>
 
