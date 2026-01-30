@@ -41,8 +41,8 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 **Tabla 1.** Librerias
 | Cursos                    | 1. [NumPy](#NumPy) | 2. [OpenCV](#OpenCV) | 2. [Matplotlib](#Matplotlib) | 3. opencv-contrib | 4. scikit-learn | 5. pandas | 6. seaborn |
 | :------------------------ | :---:              | :---:                | :---:                        | :---:             | :---:           | :---:     | :---:     |
-| Visión por computadora    | ✓                  | ✓                   | ✓                            |                   |                 |           |           |
-
+| Visión por computadora    | ✓                  | ✓                   | ✓                            |                   |  ✓              |           |           |
+| Señales y sistemas        ! ✓                  |                     | ✓                            |                   |                  |           |           |
 </div>
     
 > **Nota:** Sigue el orden para evitar errores durante la instalación.
