@@ -82,4 +82,6 @@ Rutas típicas a agregar:
 
 </details>
 
+<br/>
+
 [Página principal](../../README.md)
