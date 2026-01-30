@@ -23,6 +23,7 @@
       ```console
       conda install -c anaconda ipykernel
       ```
+    - Confirma la instalación escribiendo [y] cuando se solicite.
   
 3. Registrar el entorno virtual como un kernel
     - Usa el siguiente comando para registrar tu entorno virtual en Jupyter Notebook. Sustituye `nombre_entorno` con el nombre que desees mostrar en Jupyter:
