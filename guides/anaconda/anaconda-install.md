@@ -41,4 +41,43 @@
       ```
 <br/>
 
+## Fix “Command Not Found” (Windows)
+
+Si la instalación de Anaconda termina correctamente pero al ejecutar `conda` en la terminal aparece que el comando no existe, agregue manualmente las carpetas de Anaconda a la variable de entorno **PATH**.
+
+Rutas típicas a agregar:
+
+- `...\Anaconda3`
+- `...\Anaconda3\Scripts`
+
+<details>
+  <summary><strong>📌 Ver pasos para editar el PATH en Windows</strong></summary>
+
+  1. **Abra la configuración de variables de entorno**
+     - Presione la tecla **Windows** y escriba: **Editar las variables de entorno del sistema**
+     - Abra ese resultado.
+
+  2. **Entre a Variables de entorno**
+     - En la ventana **Propiedades del sistema**, pestaña **Opciones avanzadas**, haga clic en **Variables de entorno…**
+
+  3. **Edite la variable PATH**
+     - En **Variables del sistema** (recomendado), busque **Path** y seleccione **Editar…**  
+       *(También puede hacerlo en “Variables de usuario” si quiere aplicarlo solo a su cuenta).*
+
+  4. **Agregue las rutas de Anaconda**
+     - Haga clic en **Nuevo** y agregue una por una (según su instalación):
+       - `C:\Users\SU_USUARIO\Anaconda3`
+       - `C:\Users\SU_USUARIO\Anaconda3\Scripts`
+
+  5. **Guarde los cambios**
+     - Presione **Aceptar** en todas las ventanas para confirmar.
+
+  6. **Reabra la terminal y verifique**
+     - Cierre y vuelva a abrir **CMD** o **PowerShell**.
+     - Ejecute: `conda --version`
+
+  **Nota:** Si Anaconda está instalada en otra ubicación, use esa ruta real; lo importante es incluir la carpeta principal y `Scripts`.
+
+</details>
+
 [Página principal](../../README.md)
