@@ -54,7 +54,7 @@ Rutas típicas a agregar:
   <summary><strong>📌 Ver pasos para editar el PATH en Windows</strong></summary>
 
   1. **Abra la configuración de variables de entorno**
-     - Presione la tecla **Windows** y escriba: **Editar las variables de entorno del sistema**
+     - Presione la tecla **Windows** y escriba: **Editar las variables de entorno del sistema** ( o edit the system environment variables)
      - Abra ese resultado.
 
   2. **Entre a Variables de entorno**
