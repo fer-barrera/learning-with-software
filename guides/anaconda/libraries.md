@@ -123,7 +123,7 @@ Una vez la instalación ha terminado, verifica si Matplotlib se instaló correct
 - Escribe `python` en la terminal para abrir el intérprete de Python. Luego, escribe el código de prueba:
 
   ```console
-  python -c "import matplotlib.pyplot as plt; print(plt.__version__)"
+  python -c "import matplotlib as plt; print(plt.__version__)"
   ```
   
 - Si no aparece ningún error y muestra una versión (por ejemplo, 3.x.x), Matplotlib fue instalado correctamente.
