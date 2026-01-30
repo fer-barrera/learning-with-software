@@ -39,7 +39,7 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 <div  align="center">
     
 **Tabla 1.** Librerias
-| Cursos                    | 1. [NumPy](#NumPy) | 2. [OpenCV](#OpenCV) | 2. [Matplotlib](#Matplotlib) | 4. scikit-learn | 7. sympy |
+| Cursos                    | 1. [NumPy](#NumPy) | 2. [OpenCV](#OpenCV) | 2. [Matplotlib](#Matplotlib) | 3. scikit-learn | 7. sympy |
 | :------------------------ | :---:              | :---:                | :---:                        | :---:           | :---:    |
 | Visión por computadora    | ✓                  | ✓                   | ✓                            | ✓              |           |
 | Señales y sistemas        | ✓                  |                     | ✓                            |                 | ✓        |
@@ -135,6 +135,30 @@ Una vez la instalación ha terminado, verifica si Matplotlib se instaló correct
   import matplotlib.pyplot as plt
   print(plt.__version__)
   exit()
+  ```
+  
+- Si no aparece ningún error y muestra una versión (por ejemplo, 3.x.x), Matplotlib fue instalado correctamente.
+
+<br/>
+
+## Scikit-learn
+
+- Escribe el siguiente comando en la terminal para instalar scikit-learn usando conda:
+
+  ```console
+    conda install main::scikit-learn
+  ```
+
+- Cuando aparezca un mensaje de confirmación, escribe [y] y presiona `Enter` para continuar.
+
+**Verificar la instalación (opcional)**
+
+Una vez la instalación ha terminado, verifica si scikit-learn se instaló correctamente:
+
+- Escribe `python` en la terminal para abrir el intérprete de Python. Luego, escribe el código de prueba:
+
+  ```console
+     python -c "import sklearn; sklearn.show_versions()"
   ```
   
 - Si no aparece ningún error y muestra una versión (por ejemplo, 3.x.x), Matplotlib fue instalado correctamente.
