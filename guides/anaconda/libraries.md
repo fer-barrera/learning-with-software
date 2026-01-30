@@ -97,12 +97,10 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
 - Escribe `python` en la terminal para abrir el intérprete de Python. Luego escribe:
 
   ```console
-  import cv2
-  print(cv2.__version__)
-  exit()
+  python -c "import cv2; print(cv2.__version__)
   ```
   
-- Si no aparece ningún error e implime la versión entonces ¡OpenCV fue instalado correctamente!
+- Si no aparece ningún error e imprime la versión entonces ¡OpenCV fue instalado correctamente!
 
 [librerias](#tb-libs)
 
@@ -125,9 +123,7 @@ Una vez la instalación ha terminado, verifica si Matplotlib se instaló correct
 - Escribe `python` en la terminal para abrir el intérprete de Python. Luego, escribe el código de prueba:
 
   ```console
-  import matplotlib.pyplot as plt
-  print(plt.__version__)
-  exit()
+  python -c "import matplotlib.pyplot as plt; print(plt.__version__)
   ```
   
 - Si no aparece ningún error y muestra una versión (por ejemplo, 3.x.x), Matplotlib fue instalado correctamente.
