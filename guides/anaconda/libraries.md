@@ -39,10 +39,10 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 <div  align="center">
     
 **Tabla 1.** Librerias
-| Cursos                    | 1. [NumPy](#NumPy) | 2. [OpenCV](#OpenCV) | 2. [Matplotlib](#Matplotlib) | 3. [Scikit-learn](Scikit-learn) | 7. sympy |
-| :------------------------ | :---:              | :---:                | :---:                        | :---:           | :---:    |
-| Visión por computadora    | ✓                  | ✓                   | ✓                            | ✓              |           |
-| Señales y sistemas        | ✓                  |                     | ✓                            |                 | ✓        |
+| Cursos                    | 1. [NumPy](#NumPy) | 2. [OpenCV](#OpenCV) | 2. [Matplotlib](#Matplotlib) | 3. [Scikit-learn](#Scikit-learn) | 7. sympy |
+| :------------------------ | :---:              | :---:                | :---:                        | :---:                            | :---:    |
+| Visión por computadora    | ✓                  | ✓                   | ✓                            | ✓                               |          |
+| Señales y sistemas        | ✓                  |                     | ✓                            |                                  | ✓        |
 </div>
     
 > **Nota:** Sigue el orden para evitar errores durante la instalación.
