@@ -63,7 +63,7 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 **Verificar la instalación (opcional)**
 
 Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
-- Escribe `python` en la terminal para abrir el intérprete de Python. Luego escribe:
+- Escribe en la terminal el siguiente comando:
 
   ```console
   python -c "import numpy as np; print(np.__version__)"
@@ -72,14 +72,9 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
 - Si no aparece ningún error ¡NumPy fue instalado correctamente! y deberias observar algo como:
 
   ```console
-  (base) PS C:\Users\jferb> python
-  Python 3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)] on win32
-  Type "help", "copyright", "credits" or "license" for more information.
-  >>> import numpy as np
-  >>> print(np.__version__)
-  1.26.4
-  >>> exit()
-  (base) PS C:\Users\jferb>
+  (cv) PS C:\Users\jferb> python -c "import numpy as np; print(np.__version__)"
+  2.4.1
+  (cv) PS C:\Users\jferb>
   ```
 
 [librerias](#tb-libs)
