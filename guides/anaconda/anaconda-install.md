@@ -50,12 +50,14 @@ Rutas típicas a agregar:
 - `...\Anaconda3`
 - `...\Anaconda3\Scripts`
 
+<br/>
+
 <details>
   <summary><strong>📌 Ver pasos para editar el PATH en Windows</strong></summary>
 
   1. **Abra la configuración de variables de entorno**
      - Presione la tecla **Windows** y escriba: **Editar las variables de entorno del sistema** ( o edit the system environment variables)
-     - Abra ese resultado.
+     - Abra el resultado.
 
   2. **Entre a Variables de entorno**
      - En la ventana **Propiedades del sistema**, pestaña **Opciones avanzadas**, haga clic en **Variables de entorno…**
@@ -66,8 +68,8 @@ Rutas típicas a agregar:
 
   4. **Agregue las rutas de Anaconda**
      - Haga clic en **Nuevo** y agregue una por una (según su instalación):
-       - `C:\Users\SU_USUARIO\Anaconda3`
-       - `C:\Users\SU_USUARIO\Anaconda3\Scripts`
+       - `C:\apps\Anaconda3`
+       - `C:\apps\Anaconda3\Scripts`
 
   5. **Guarde los cambios**
      - Presione **Aceptar** en todas las ventanas para confirmar.
