@@ -39,7 +39,7 @@ Sigue los pasos para instalar las diversas librerias de Python requeridas.
 <div  align="center">
     
 **Tabla 1.** Librerias
-| Cursos                    | 1. [NumPy](#NumPy) | 2. [OpenCV](#OpenCV) | 2. [Matplotlib](#Matplotlib) | 3. [Scikit-learn](#Scikit-learn) | 7. sympy |
+| Cursos                    | 1. [NumPy](#NumPy) | 2. [OpenCV](#OpenCV) | 2. [Matplotlib](#Matplotlib) | 3. [Scikit-learn](#Scikit-learn) | 4. Sympy |
 | :------------------------ | :---:              | :---:                | :---:                        | :---:                            | :---:    |
 | Visión por computadora    | ✓                  | ✓                   | ✓                            | ✓                               |          |
 | Señales y sistemas        | ✓                  |                     | ✓                            |                                  | ✓        |
@@ -153,6 +153,30 @@ Una vez la instalación ha terminado, verifica si scikit-learn se instaló corre
   ```
   
 - Si no aparece ningún error y muestra la versión junto otros datos, como por ejemplo: sus dependencias, o información de blas u openmp, la libreria fue instalada correctamente.
+
+<br/>
+
+## Sympy
+
+- Escribe el siguiente comando en la terminal para instalar sympy usando conda:
+
+  ```console
+    conda install conda-forge::sympy
+  ```
+
+- Cuando aparezca un mensaje de confirmación, escribe [y] y presiona `Enter` para continuar.
+
+**Verificar la instalación (opcional)**
+
+Una vez la instalación ha terminado, verifica que la librería se instaló correctamente:
+
+- Escribe el siguiente comando en la terminal:
+
+  ```console
+     python -c "from sympy import *; x = Symbol('x'); integrate(1/x, x)"
+  ```
+  
+- Si no aparece ningún error y soluciona correctamente la integral, la libreria fue instalada correctamente.
 
 <br/>
 
