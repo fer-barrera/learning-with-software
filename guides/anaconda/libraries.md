@@ -173,7 +173,7 @@ Una vez la instalación ha terminado, verifica que la librería se instaló corr
 - Escribe el siguiente comando en la terminal:
 
   ```console
-     python -c "from sympy import *; x = Symbol('x'); integrate(1/x, x)"
+     python -c "from sympy import *; x = Symbol('x'); print(integrate(1/x, x))"
   ```
   
 - Si no aparece ningún error y soluciona correctamente la integral, la libreria fue instalada correctamente.
