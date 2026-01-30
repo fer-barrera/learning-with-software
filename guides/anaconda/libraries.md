@@ -69,6 +69,7 @@ Una vez instalada la libreria, puedes verificar si fue instalada correctamente:
   import numpy as np
   print(np.__version__)
   exit()
+  python3 -c "import numpy as np; print(np.__version__)"
   ```
   
 - Si no aparece ningún error ¡NumPy fue instalado correctamente! y deberias observar algo como:
